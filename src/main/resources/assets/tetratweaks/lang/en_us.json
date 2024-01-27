@@ -1,5 +1,5 @@
 {
- 
+
   "tetra.material.enderium": "Enderium",
   "tetra.material.enderium.prefix": "Enderium",
   "tetra.material.cloth": "Cloth",
@@ -43,6 +43,8 @@
   "tetra.material.socket_spelunkery_cinnabar.prefix": "Cinnabar",
   "tetra.material.socket_spelunkery_nephrite": "Nephrite socket",
   "tetra.material.socket_spelunkery_nephrite.prefix": "Nephrite",
+  "tetra.material.socket_spelunkery_magnetite": "Magnetite socket",
+  "tetra.material.socket_spelunkery_magnetite.prefix": "Magnetite",
 
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire"
