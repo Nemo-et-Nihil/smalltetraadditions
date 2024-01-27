@@ -1,0 +1,32 @@
+{
+    "key": "socket_spelunkery_nephrite",
+    "hidden": true,
+    "category": "socket",
+    "primary": 0,
+    "secondary": 0,
+    "tertiary": 0,
+    "durability": 56,
+    "integrityCost": 1,
+    "integrityGain": 0,
+    "magicCapacity": 0,
+    "toolLevel": 0,
+    "toolEfficiency": 0,
+    "effects": {
+        "intuit":3       
+    },
+    "tints": {
+        "glyph": "304f3f",
+        "texture": "304f3f"
+    },
+    "textures": [
+        "default"
+    ],
+    "experienceCost": 5,
+    "material":{"items":["spelunkery:nephrite_chunk"]},
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "spelunkery"
+        }
+    ]
+}

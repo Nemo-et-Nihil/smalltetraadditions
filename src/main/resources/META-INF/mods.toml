@@ -1,0 +1,40 @@
+modLoader = 'lowcodefml' #mandatory
+loaderVersion = '[40,)' #mandatory
+license = 'MIT'
+
+
+[[mods]] #mandatory
+modId = 'smalltetraadditions' #mandatory
+version = '1.20-1.0.0' #mandatory
+displayName ='Small Tetra Additions' #mandatory
+credits ='Credit for Tetra itself and the templates used here goes to Mickelus. All material credit goes to the original mod author.' #optional
+authors ='NemoetNihil' #optional
+description ='''Adds Tetra support to materials for my server that aren't covered by other compat mods, or that I wished to change.'''
+
+[[dependencies.smalltetraadditions]] #optional
+    # the modid of the dependency
+    modID ='forge' #mandatory
+    # Does this dependency have to exist - if not, ordering below must be specified
+    mandatory = true #mandatory
+    # The version range of the dependency
+    versionRange='[40,)' #mandatory
+    # An ordering relationship for the dependency - BEFORE or AFTER required if the dependency is not mandatory
+    # BEFORE - This mod is loaded BEFORE the dependency
+    # AFTER - This mod is loaded AFTER the dependency
+    ordering='NONE'
+    # Side this dependency is applied on - BOTH, CLIENT, or SERVER
+    side='BOTH'
+[[dependencies.smalltetraadditions]]
+    modId='minecraft'
+    mandatory = true
+    # This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange='[1.20.1,1.21)'
+    ordering='NONE'
+    side='BOTH'
+[[dependencies.smalltetraadditions]]
+    modId='tetra'
+    mandatory = true
+    # This version range declares a minimum of the current minecraft version up to but not including the next major version
+    versionRange='[6.0.0,)'
+    ordering='AFTER'
+    side='BOTH'

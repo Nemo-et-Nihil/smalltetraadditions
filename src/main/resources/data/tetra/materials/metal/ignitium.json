@@ -1,0 +1,35 @@
+{
+  "key": "ignitium",
+  "category": "metal",
+  "primary": "11",
+  "secondary": "3.3",
+  "tertiary": "3.5",
+  "durability": "3175",
+  "integrityCost": "2",
+  "integrityGain": "10",
+  "magicCapacity": "185",
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": "9",
+   "tints": {
+    "glyph": "F5AC12",
+    "texture": "F5AC12"
+  },
+  "textures": [
+    "metal",
+    "shiny"
+  ],
+  "material": {
+    "items": [
+      "cataclysm:ignitium_ingot"
+    ]
+  },
+    "requiredTools": {
+    "hammer_dig": "minecraft:netherite"
+  },
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm"
+    }
+  ]
+}

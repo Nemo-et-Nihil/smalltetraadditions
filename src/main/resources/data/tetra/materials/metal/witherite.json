@@ -1,0 +1,35 @@
+{
+  "key": "witherite",
+  "category": "metal",
+  "primary": "8",
+  "secondary": "2.5",
+  "tertiary": "3.5",
+  "durability": "2000",
+  "integrityCost": "2",
+  "integrityGain": "10",
+  "magicCapacity": "98",
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": "9",
+   "tints": {
+    "glyph": "2c2c34",
+    "texture": "2c2c34"
+  },
+  "textures": [
+    "metal",
+    "crude"
+  ],
+  "material": {
+    "items": [
+      "cataclysm:witherite_ingot"
+    ]
+  },
+    "requiredTools": {
+    "hammer_dig": "minecraft:diamond"
+  },
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "cataclysm"
+    }
+  ]
+}
