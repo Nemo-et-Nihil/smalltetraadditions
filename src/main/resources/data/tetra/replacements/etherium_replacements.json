@@ -43,7 +43,7 @@
     "modules": {
       "double/head_left": [
         "double/hoe_left",
-        "scythe/etherium"
+        "hoe/etherium"
       ],
       "double/head_right": [
         "double/butt_right",
