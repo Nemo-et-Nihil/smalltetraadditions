@@ -15,11 +15,11 @@
     "modules": {
       "double/head_left": [
         "double/basic_axe_left",
-        "basic_axe/enderium"
+        "basic_axe/neptunium"
       ],
       "double/head_right": [
         "double/butt_right",
-        "butt/enderium"
+        "butt/neptunium"
       ],
       "double/handle": [
         "double/basic_handle",
@@ -43,11 +43,11 @@
     "modules": {
       "double/head_left": [
         "double/hoe_left",
-        "hoe/enderium"
+        "hoe/neptunium"
       ],
       "double/head_right": [
         "double/butt_right",
-        "butt/enderium"
+        "butt/neptunium"
       ],
       "double/handle": [
         "double/basic_handle",
@@ -71,11 +71,11 @@
     "modules": {
       "double/head_left": [
         "double/basic_pickaxe_left",
-        "basic_pickaxe/enderium"
+        "basic_pickaxe/neptunium"
       ],
       "double/head_right": [
         "double/basic_pickaxe_right",
-        "basic_pickaxe/enderium"
+        "basic_pickaxe/neptunium"
       ],
       "double/handle": [
         "double/basic_handle",
@@ -99,7 +99,7 @@
     "modules": {
       "single/head": [
         "single/basic_shovel",
-        "basic_shovel/enderium"
+        "basic_shovel/neptunium"
       ],
       "single/handle": [
         "single/basic_handle",
@@ -123,7 +123,7 @@
     "modules": {
       "sword/blade": [
         "sword/basic_blade",
-        "basic_blade/enderium"
+        "basic_blade/neptunium"
       ],
       "sword/hilt": [
         "sword/basic_hilt",
@@ -131,11 +131,11 @@
       ],
       "sword/pommel": [
         "sword/decorative_pommel",
-        "decorative_pommel/enderium"
+        "decorative_pommel/neptunium"
       ],
       "sword/guard": [
         "sword/makeshift_guard",
-        "makeshift_guard/enderium"
+        "makeshift_guard/neptunium"
       ]
     }
   },
