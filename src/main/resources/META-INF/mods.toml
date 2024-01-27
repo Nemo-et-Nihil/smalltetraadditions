@@ -13,7 +13,7 @@ description ='''Adds Tetra support to materials for my server that aren't covere
 
 [[dependencies.smalltetraadditions]] #optional
     # the modid of the dependency
-    modID ='forge' #mandatory
+    modID = 'forge' #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
     mandatory = true #mandatory
     # The version range of the dependency
