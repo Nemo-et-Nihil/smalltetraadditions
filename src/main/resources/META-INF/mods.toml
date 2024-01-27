@@ -5,7 +5,7 @@ license = 'MIT'
 
 [[mods]] #mandatory
 modId = 'smalltetraadditions' #mandatory
-version = '1.20-1.0.0' #mandatory
+version = '1.0' #mandatory
 displayName ='Small Tetra Additions' #mandatory
 credits ='Credit for Tetra itself and the templates used here goes to Mickelus. All material credit goes to the original mod author.' #optional
 authors ='NemoetNihil' #optional
@@ -17,7 +17,7 @@ description ='''Adds Tetra support to materials for my server that aren't covere
     # Does this dependency have to exist - if not, ordering below must be specified
     mandatory = true #mandatory
     # The version range of the dependency
-    versionRange='[40,)' #mandatory
+    versionRange='[47.2.4)' #mandatory
     # An ordering relationship for the dependency - BEFORE or AFTER required if the dependency is not mandatory
     # BEFORE - This mod is loaded BEFORE the dependency
     # AFTER - This mod is loaded AFTER the dependency
