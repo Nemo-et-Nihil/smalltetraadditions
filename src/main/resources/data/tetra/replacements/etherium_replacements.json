@@ -1,0 +1,142 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "enigmaticlegacy"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "enigmaticlegacy:etherium_axe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/etherium"
+      ],
+      "double/head_right": [
+        "double/basic_axe_right",
+        "basic_axe/etherium"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/ender_rod"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "enigmaticlegacy"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "enigmaticlegacy:etherium_scythe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/scythe_left",
+        "scythe/etherium"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/etherium"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/ender_rod"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "enigmaticlegacy"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "enigmaticlegacy:etherium_pickaxe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/etherium"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/etherium"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/ender_rod"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "enigmaticlegacy"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "enigmaticlegacy:etherium_shovel"
+      ]
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/etherium"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/ender_rod"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "enigmaticlegacy"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "enigmaticlegacy:etherium_sword"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/etherium"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/ender_rod"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/etherium"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/diamond"
+      ]
+    }
+  }
+]
