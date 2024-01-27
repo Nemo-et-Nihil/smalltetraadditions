@@ -25,14 +25,14 @@ description ='''Adds Tetra support to materials for my server that aren't covere
     # Side this dependency is applied on - BOTH, CLIENT, or SERVER
     side='BOTH'
 [[dependencies.smalltetraadditions]]
-    modId='minecraft'
+    modId ='minecraft'
     mandatory = true
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
     versionRange='[1.20.1)'
-    ordering='NONE'
+    ordering ='NONE'
     side='BOTH'
 [[dependencies.smalltetraadditions]]
-    modId='tetra'
+    modId = 'tetra'
     mandatory = true
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
     versionRange='[6.0.0,)'
