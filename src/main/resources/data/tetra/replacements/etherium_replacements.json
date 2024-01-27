@@ -42,7 +42,7 @@
     "item": "tetra:modular_double",
     "modules": {
       "double/head_left": [
-        "double/scythe_left",
+        "double/hoe_left",
         "scythe/etherium"
       ],
       "double/head_right": [
