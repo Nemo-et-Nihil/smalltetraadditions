@@ -1,9 +1,9 @@
 {
   "key": "cloth",
   "category": "fabric",
-  "primary": "5",
+  "primary": "4.5",
   "secondary": "2.5",
-  "tertiary": "3",
+  "tertiary": "2.7",
   "durability": "274",
   "integrityCost": "1",
   "integrityGain": "5",

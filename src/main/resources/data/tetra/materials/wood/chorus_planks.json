@@ -3,13 +3,13 @@
     "category": "wood",
     "primary": 5,
     "secondary": 3.2,
-    "tertiary": 6,
+    "tertiary": 4.5,
     "durability": 376,
     "integrityCost": 2,
     "integrityGain": 5,
     "magicCapacity": 102,
     "toolLevel": "minecraft:gold",
-    "toolEfficiency": 4,
+    "toolEfficiency": 4.2,
     "tints": {
         "glyph": "543854",
         "texture": "543854"

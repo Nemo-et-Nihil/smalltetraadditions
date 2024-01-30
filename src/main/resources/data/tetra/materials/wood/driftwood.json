@@ -1,15 +1,15 @@
 {
     "key": "driftwood",
     "category": "wood",
-    "primary": 5,
-    "secondary": 3,
-    "tertiary": 3,
+    "primary": 3.5,
+    "secondary": 2.5,
+    "tertiary": 4,
     "durability": 212,
     "integrityCost": 1,
     "integrityGain": 4,
-    "magicCapacity": 118,
-    "toolLevel": "minecraft:gold",
-    "toolEfficiency": 5,
+    "magicCapacity": 96,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 3,
     "tints": {
         "glyph": "7c5c2a",
         "texture": "7c5c2a"

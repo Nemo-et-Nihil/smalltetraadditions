@@ -2,14 +2,14 @@
     "key": "void_stone",
     "category": "stone",
     "primary": 7,
-    "secondary": 6,
+    "secondary": 5,
     "tertiary": 0,
     "durability": 1500,
     "integrityCost": 2,
     "integrityGain": 4,
-    "magicCapacity": 90,
+    "magicCapacity": 112,
     "toolLevel": "minecraft:diamond",
-    "toolEfficiency": 10,
+    "toolEfficiency": 9.5,
     "tints": {
         "glyph": "370f65",
         "texture": "370f65"
