@@ -46,6 +46,18 @@
   "tetra.material.socket_spelunkery_magnetite": "Magnetite socket",
   "tetra.material.socket_spelunkery_magnetite.prefix": "Magnetite",
 
+  "tetra.material.azure_planks": "Azure Wood",
+  "tetra.material.tall_ender_roots": "Ender Root",
+  "tetra.material.azure_vine": "Azure Vine",
+  "tetra.material.violite": "Violite",
+  "tetra.material.rose_crystal": "Rose Crystal",
+  "tetra.material.mint_crystal": "Mint Crystal",
+  "tetra.material.cobalt_crystal": "Cobalt Crystal",
+  "tetra.material.socket_rose_crystal_bud": "Rose Crystal Socket",
+  "tetra.material.socket_mint_crystal_bud": "Mint Crystal Socket",
+  "tetra.material.socket_cobalt_crystal_bud": "Cobalt Crystal Socket",
+
+
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire"
 
