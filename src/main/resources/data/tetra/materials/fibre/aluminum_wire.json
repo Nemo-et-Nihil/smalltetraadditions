@@ -1,0 +1,35 @@
+{
+  "key": "aluminum_wire",
+  "category": "fibre",
+  "primary": "4.6",
+  "secondary": "1.9",
+  "tertiary": "2.2",
+  "durability": "164",
+  "integrityCost": "1",
+  "integrityGain": "5",
+  "magicCapacity": "72",
+  "toolLevel": "0",
+  "toolEfficiency": "0",
+  "tints": {
+    "glyph": "9fadaf",
+    "texture": "9fadaf"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "immersiveengineering:wire_aluminum"
+    ]
+  },
+  "requiredTools": {
+    "cut": "minecraft:iron"
+  },
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ]
+}
