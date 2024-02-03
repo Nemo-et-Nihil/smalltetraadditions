@@ -1,0 +1,32 @@
+{
+  "key": "steel_rod",
+  "primary": 4.2,
+  "secondary": 2.9,
+  "tertiary": 2.2,
+  "durability": 512,
+  "integrityCost": 2,
+  "integrityGain": 8,
+  "magicCapacity": 72,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
+  "tints": {
+    "glyph": "5c5c5c",
+    "texture": "5c5c5c"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [ "immersiveengineering:stick_steel" ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "immersiveengineering"
+    }
+  ]
+}
