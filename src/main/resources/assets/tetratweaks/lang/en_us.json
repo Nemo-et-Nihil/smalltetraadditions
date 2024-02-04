@@ -13,8 +13,8 @@
   "tetra.material.nefarious.prefix": "Nefarious",
   "tetra.material.ender_rod": "Ender Rod",
   "tetra.material.ender_rod.prefix": "Ender Rod",
-  "tetra.material.socket_cosmic_heart": "Heart of the Cosmos",
-  "tetra.material.socket_cosmic_heart.prefix": "Heart of the Cosmos Socket",
+  "tetra.material.socket_cosmic_heart": "Heart of the Cosmos Socket",
+  "tetra.material.socket_cosmic_heart.prefix": "Heart of the Cosmos",
 
   "tetra.material.neptunium": "Neptunium",
   "tetra.material.neptunium.prefix": "Neptunium",
@@ -75,6 +75,11 @@
   "tetra.material.aluminum_rod.prefix": "Aluminum Rod",
   "tetra.material.steel_rod.prefix": "Steel Rod",
   "tetra.material.iron_rod.prefix": "Iron Rod",
+
+  "tetra.material.socket_void_worm_eye": "Void Worm Eye Socket",
+  "tetra.material.socket_void_worm_eye.prefix": "Void Worm Eye",
+  "tetra.material.socket_guster_eye": "Guster Eye Socket",
+  "tetra.material.socket_guster_eye.prefix": "Guster Eye",
 
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire"
