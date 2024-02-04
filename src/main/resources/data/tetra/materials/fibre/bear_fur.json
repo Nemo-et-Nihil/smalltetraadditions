@@ -1,0 +1,35 @@
+{
+  "key": "bear_fur",
+  "category": "fibre",
+  "primary": "2",
+  "secondary": "1.8",
+  "tertiary": "3.5",
+  "durability": "268",
+  "integrityCost": "1",
+  "integrityGain": "4",
+  "magicCapacity": "106",
+  "toolLevel": "0",
+  "toolEfficiency": "0",
+  "tints": {
+    "glyph": "7b4b32",
+    "texture": "7b4b32"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "alexsmobs:bear_fur"
+    ]
+  },
+  "requiredTools": {
+    "cut": "minecraft:stone"
+  },
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "alexsmobs"
+    }
+  ]
+}
