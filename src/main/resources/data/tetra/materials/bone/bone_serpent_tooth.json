@@ -1,0 +1,35 @@
+{
+"key": "bone_serpent_tooth",
+"category": "bone",
+"primary": "6.5",
+"secondary": "4",
+"tertiary": "2",
+"durability": "380",
+"integrityCost": "2",
+"integrityGain": "6",
+"magicCapacity": "146",
+"toolLevel": "minecraft:iron",
+"toolEfficiency": "7",
+"tints": {
+"glyph": "6c645c",
+"texture": "6c645c"
+},
+"textures": [
+"bone",
+"crude"
+],
+"material": {
+"items": [
+"alexsmobs:bone_serpent_tooth"
+]
+},
+"requiredTools": {
+"hammer_dig": "minecraft:iron"
+},
+"conditions":[
+{
+"type": "forge:mod_loaded",
+"modid": "alexsmobs"
+}
+]
+}
