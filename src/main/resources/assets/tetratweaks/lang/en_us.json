@@ -80,6 +80,24 @@
   "tetra.material.socket_void_worm_eye.prefix": "Void Worm Eye",
   "tetra.material.socket_guster_eye": "Guster Eye Socket",
   "tetra.material.socket_guster_eye.prefix": "Guster Eye",
+  "tetra.material.bear_fur": "Hair of Bear",
+  "tetra.material.bear_fur.prefix": "Hair of Bear",
+  "tetra.material.bone_serpent_tooth": "Bone Serpent Tooth",
+  "tetra.material.bone_serpent_tooth.prefix": "Bone Serpent Tooth",
+  "tetra.material.warped_muscle": "Warped Muscle",
+  "tetra.material.warped_muscle.prefix": "Warped Muscle",
+  "tetra.material.dropbear_claw": "Dropbear Claw",
+  "tetra.material.dropbear_claw.prefix": "Dropbear Claw",
+  "tetra.material.kangaroo_hide": "Kangaroo Hide",
+  "tetra.material.kangaroo_hide.prefix": "Kangaroo Hide",
+  "tetra.material.cachalot_whale_tooth": "Cachalot Whale Tooth",
+  "tetra.material.cachalot_whale_tooth.prefix": "Cachalot Whale Tooth",
+  "tetra.material.bison_fur": "Bison Fur",
+  "tetra.material.bison_fur.prefix": "Bison Fur",
+  "tetra.material.shed_snake_skin": "Snake Skin",
+  "tetra.material.shed_snake_skin.prefix": "Snake Skin",
+
+
 
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire"
