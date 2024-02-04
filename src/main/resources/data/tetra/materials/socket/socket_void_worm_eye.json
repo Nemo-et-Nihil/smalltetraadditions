@@ -12,7 +12,7 @@
   "toolLevel": 0,
   "toolEfficiency": 0,
   "effects": {
-    "quickStrike": 25,
+    "quickStrike": 10,
     "janking":[6,0.02],
     "armorPenetration": 20
   },
