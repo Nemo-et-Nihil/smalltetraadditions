@@ -1,9 +1,9 @@
 {
   "key": "aluminum",
   "category": "metal",
-  "primary": "6",
-  "secondary": "1.5",
-  "tertiary": "3.7",
+  "primary": "5",
+  "secondary": "2",
+  "tertiary": "4",
   "durability": "216",
   "integrityCost": "2",
   "integrityGain": "6",
