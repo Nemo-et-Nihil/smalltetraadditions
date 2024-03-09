@@ -1,10 +1,10 @@
 {
   "key": "warped_muscle",
   "category": "fibre",
-  "primary": "7",
+  "primary": "5",
   "secondary": "3",
-  "tertiary": "2.8",
-  "durability": "756",
+  "tertiary": "2.5",
+  "durability": "850",
   "integrityCost": "1",
   "integrityGain": "7",
   "magicCapacity": "180",
