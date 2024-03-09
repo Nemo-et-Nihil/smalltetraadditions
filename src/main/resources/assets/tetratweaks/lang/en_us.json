@@ -76,8 +76,8 @@
   "tetra.material.steel_rod.prefix": "Steel Rod",
   "tetra.material.iron_rod.prefix": "Iron Rod",
 
-  "tetra.material.animal_fur": "Rough Animal Fur",
-  "tetra.material.animal_fur.prefix": "Rough Animal Fur",
+  "tetra.material.animal_fur": "Animal Fur",
+  "tetra.material.animal_fur.prefix": "Animal Fur",
   "tetra.material.socket_void_worm_eye": "Void Worm Eye Socket",
   "tetra.material.socket_void_worm_eye.prefix": "Void Worm Eye",
   "tetra.material.socket_guster_eye": "Guster Eye Socket",
