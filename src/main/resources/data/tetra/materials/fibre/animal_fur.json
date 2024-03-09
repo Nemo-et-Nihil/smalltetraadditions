@@ -1,13 +1,13 @@
 {
-  "key": "bison_fur",
+  "key": "animal_fur",
   "category": "fibre",
-  "primary": "1.5",
-  "secondary": "1.4",
-  "tertiary": "4",
-  "durability": "224",
+  "primary": "1.2",
+  "secondary": "1.6",
+  "tertiary": "4.8",
+  "durability": "320",
   "integrityCost": "1",
-  "integrityGain": "4",
-  "magicCapacity": "128",
+  "integrityGain": "5",
+  "magicCapacity": "106",
   "toolLevel": "0",
   "toolEfficiency": "0",
   "tints": {
@@ -20,7 +20,9 @@
   ],
   "material": {
     "items": [
-      "alexsmobs:bison_fur"
+      "alexsmobs:bison_fur",
+      "alexsmobs:bear_fur",
+      "alexsmobs:raccoon_tail"
     ]
   },
   "requiredTools": {
