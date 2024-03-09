@@ -98,7 +98,8 @@
   "tetra.material.void_worm_mandible.prefix": "Void Worm Mandible",
 
 
-
+  "tetra.material.cactus": "Cactus",
+  "tetra.material.cactus.prefix": "Cactus",
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire"
 
