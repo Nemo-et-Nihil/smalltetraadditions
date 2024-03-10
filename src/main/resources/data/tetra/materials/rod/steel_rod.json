@@ -18,16 +18,8 @@
     "crude",
     "default"
   ],
-  "material": {
-    "items": [ "immersiveengineering:stick_steel" ]
-  },
+  "material":{"tag":"forge:rods/steel"},
   "requiredTools": {
     "hammer_dig": "minecraft:iron"
-  },
-  "conditions":[
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    }
-  ]
+  }
 }

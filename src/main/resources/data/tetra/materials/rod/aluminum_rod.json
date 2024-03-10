@@ -21,16 +21,8 @@
     "crude",
     "default"
   ],
-  "material": {
-    "items": [ "immersiveengineering:stick_aluminum" ]
-  },
+  "material":{"tag":"forge:rods/aluminum"},
   "requiredTools": {
     "hammer_dig": "minecraft:iron"
-  },
-  "conditions":[
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    }
-  ]
+  }
 }
