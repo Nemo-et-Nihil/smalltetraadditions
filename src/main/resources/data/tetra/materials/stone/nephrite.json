@@ -1,17 +1,17 @@
 {
     "key": "nephrite",
     "category": "stone",
-    "primary": 4.6,
-    "secondary": 3.2,
-    "tertiary": 0,
-    "durability": 256,
-    "integrityCost": 1,
-    "integrityGain": 4,
-    "magicCapacity": 225,
+    "primary": "5",
+    "secondary": "3.2",
+    "tertiary": "0",
+    "durability": "256",
+    "integrityCost": "1",
+    "integrityGain": "5",
+    "magicCapacity": "225",
     "toolLevel": "minecraft:iron",
-    "toolEfficiency": 6,
+    "toolEfficiency": "6",
 "effects": {
-        "intuit": 1
+        "intuit": "1"
     },
     "tints": {
         "glyph": "14543c",
@@ -24,7 +24,7 @@
     ],
     "material": {
         "items": [
-            "spelunkery:polished_nephrite"
+            "spelunkery:nephrite"
         ]
     },
     "requiredTools": {
