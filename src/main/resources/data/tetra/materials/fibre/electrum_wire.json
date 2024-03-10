@@ -21,18 +21,8 @@
     "crude",
     "default"
   ],
-  "material": {
-    "items": [
-      "immersiveengineering:wire_electrum"
-    ]
-  },
+  "material":{"tag":"forge:wires/electrum"},
   "requiredTools": {
     "cut": "minecraft:iron"
-  },
-  "conditions":[
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    }
-  ]
+  }
 }

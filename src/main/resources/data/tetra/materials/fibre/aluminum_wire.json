@@ -7,7 +7,7 @@
   "durability": "164",
   "integrityCost": "1",
   "integrityGain": "5",
-  "magicCapacity": "72",
+  "magicCapacity": "74",
   "toolLevel": "0",
   "toolEfficiency": "0",
   "tints": {
@@ -18,18 +18,8 @@
     "crude",
     "default"
   ],
-  "material": {
-    "items": [
-      "immersiveengineering:wire_aluminum"
-    ]
-  },
+  "material":{"tag":"forge:wires/aluminum"},
   "requiredTools": {
     "cut": "minecraft:iron"
-  },
-  "conditions":[
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    }
-  ]
+  }
 }

@@ -18,18 +18,8 @@
     "crude",
     "default"
   ],
-  "material": {
-    "items": [
-      "immersiveengineering:wire_steel"
-    ]
-  },
+  "material":{"tag":"forge:wires/steel"},
   "requiredTools": {
     "cut": "minecraft:iron"
-  },
-  "conditions":[
-    {
-      "type": "forge:mod_loaded",
-      "modid": "immersiveengineering"
-    }
-  ]
+  }
 }
