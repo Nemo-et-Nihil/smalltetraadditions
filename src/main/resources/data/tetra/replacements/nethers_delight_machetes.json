@@ -1,0 +1,134 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "nethersdelight"
+      }
+    ],
+
+    "predicate": {
+      "items": [
+        "nethersdelight:iron_machete"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/machete",
+        "machete/iron"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/iron"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/iron"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "nethersdelight"
+      }
+    ],
+
+    "predicate": {
+      "items": [
+        "nethersdelight:golden_machete"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/machete",
+        "machete/gold"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/gold"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/gold"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "nethersdelight"
+      }
+    ],
+
+    "predicate": {
+      "items": [
+        "nethersdelight:diamond_machete"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/machete",
+        "machete/diamond"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/diamond"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/diamond"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "nethersdelight"
+      }
+    ],
+
+    "predicate": {
+      "items": [
+        "nethersdelight:netherite_machete"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/machete",
+        "machete/netherite"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/netherite"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/netherite"
+      ]
+    }
+  }
+]
