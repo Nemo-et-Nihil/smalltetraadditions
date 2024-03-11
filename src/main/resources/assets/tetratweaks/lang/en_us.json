@@ -99,7 +99,10 @@
   "tetra.material.cactus": "Cactus",
   "tetra.material.cactus.prefix": "Cactus",
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
-  "tetra.material.socket_forge_sapphire.prefix": "Sapphire"
+  "tetra.material.socket_forge_sapphire.prefix": "Sapphire",
 
-
+  "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
+  "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
+  "tetra.improvement.nefarious.name": "Evil Embodied",
+  "tetra.improvement.nefarious.description": "Doubles damage"
 }
