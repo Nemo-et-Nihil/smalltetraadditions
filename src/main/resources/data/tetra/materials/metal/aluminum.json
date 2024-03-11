@@ -2,14 +2,14 @@
   "key": "aluminum",
   "category": "metal",
   "primary": "5",
-  "secondary": "2",
-  "tertiary": "4",
-  "durability": "216",
+  "secondary": "1.6",
+  "tertiary": "3.5",
+  "durability": "212",
   "integrityCost": "2",
-  "integrityGain": "6",
-  "magicCapacity": "74",
+  "integrityGain": "5",
+  "magicCapacity": "86",
   "toolLevel": "minecraft:iron",
-  "toolEfficiency": "7.5",
+  "toolEfficiency": "6",
   "tints": {
     "glyph": "a5acaf",
     "texture": "a5acaf"
@@ -23,6 +23,6 @@
     "workable": 1
   },
   "requiredTools": {
-    "hammer_dig": "minecraft:stone"
+    "hammer_dig": "minecraft:gold"
   }
 }

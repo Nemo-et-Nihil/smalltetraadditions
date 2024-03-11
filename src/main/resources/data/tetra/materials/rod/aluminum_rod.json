@@ -1,17 +1,18 @@
 {
   "key": "aluminum_rod",
   "category": "misc",
-  "primary": "3.5",
-  "secondary": "1.5",
-  "tertiary": "2.8",
-  "durability": "224",
+  "primary": "5",
+  "secondary": "1.6",
+  "tertiary": "3.5",
+  "durability": "236",
   "integrityCost": "2",
-  "integrityGain": "5",
-  "magicCapacity": "74",
+  "integrityGain": "6",
+  "magicCapacity": "86",
   "toolLevel": "0",
   "toolEfficiency": "0",
   "improvements": {
-    "workable": 1
+    "workable": 1,
+    "hollow": 1
   },
   "tints": {
     "glyph": "a5acaf",
@@ -23,6 +24,6 @@
   ],
   "material":{"tag":"forge:rods/aluminum"},
   "requiredTools": {
-    "hammer_dig": "minecraft:iron"
+    "hammer_dig": "minecraft:gold"
   }
 }

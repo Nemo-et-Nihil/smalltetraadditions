@@ -1,16 +1,17 @@
 {
-  "key": "electrum_wire",
-  "category": "fibre",
+  "key": "electrum_rod",
+  "category": "misc",
   "primary": "5",
   "secondary": "4.6",
   "tertiary": "1",
-  "durability": "58",
+  "durability": "98",
   "integrityCost": "2",
-  "integrityGain": "5",
-  "magicCapacity": "148",
+  "integrityGain": "4",
+  "magicCapacity": "144",
   "toolLevel": "0",
   "toolEfficiency": "0",
-  "effects": {
+  "improvements": {
+    "workable": 1,
     "stabilizing": 15
   },
   "tints": {
@@ -21,8 +22,8 @@
     "crude",
     "default"
   ],
-  "material":{"tag":"forge:wires/electrum"},
+  "material":{"tag":"forge:rods/electrum"},
   "requiredTools": {
-    "cut": "minecraft:iron"
+    "hammer_dig": "minecraft:iron"
   }
 }
