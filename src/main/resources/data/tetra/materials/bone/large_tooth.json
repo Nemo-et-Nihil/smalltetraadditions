@@ -1,10 +1,10 @@
 {
-"key": "bone_serpent_tooth",
+"key": "large_tooth",
 "category": "bone",
-"primary": "6.5",
-"secondary": "4",
+"primary": "6.2",
+"secondary": "3.6",
 "tertiary": "2",
-"durability": "380",
+"durability": "375",
 "integrityCost": "2",
 "integrityGain": "6",
 "magicCapacity": "146",
@@ -20,7 +20,10 @@
 ],
 "material": {
 "items": [
-"alexsmobs:bone_serpent_tooth"
+  "alexsmobs:bone_serpent_tooth",
+  "alexsmobs:shark_tooth",
+  "alexsmobs:cachalot_whale_tooth",
+  "alexsmobs:serrated_shark_tooth"
 ]
 },
 "requiredTools": {
