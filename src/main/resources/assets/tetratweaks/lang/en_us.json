@@ -103,6 +103,6 @@
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
-  "tetra.improvement.nefarious.name": "Evil Embodied",
-  "tetra.improvement.nefarious.description": "Doubles damage"
+  "tetra.improvement.evil_embodied.name": "Evil Embodied",
+  "tetra.improvement.evil_embodied.description": "Doubles damage"
 }
