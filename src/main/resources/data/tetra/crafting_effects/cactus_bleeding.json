@@ -40,8 +40,8 @@
   },
   "outcomes": [
     {
-      "type": "tetra:apply_improvements",
-      "improvements": {
+      "type": "tetra:apply_effects",
+      "effects": {
         "bleeding": 2
       }
     }
