@@ -26,19 +26,15 @@
         "requirements": [
           {
             "type": "tetra:slot",
-            "slot": "double/head_left"
-          },
-          {
-            "type": "tetra:slot",
-            "slot": "double/head_right"
-          },
-          {
-            "type": "tetra:slot",
-            "slot": "single/head"
-          },
-          {
-            "type": "tetra:slot",
             "slot": "sword/blade"
+          },
+          {
+            "type": "tetra:module",
+            "module": "double/basic_axe_left"
+          },
+          {
+            "type": "tetra:module",
+            "module": "double/basic_axe_right"
           }
         ]
       }
@@ -46,9 +42,9 @@
   },
   "outcomes": [
     {
-      "type": "tetra:apply_improvements",
-      "improvements": {
-        "salted_wound": 0
+      "type": "tetra:apply_enchantments",
+      "enchantments": {
+        "minecraft:smite": 7
       }
     }
   ]
