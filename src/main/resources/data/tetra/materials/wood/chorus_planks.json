@@ -6,10 +6,10 @@
     "tertiary": 4.5,
     "durability": 376,
     "integrityCost": 2,
-    "integrityGain": 5,
+    "integrityGain": 6,
     "magicCapacity": 102,
-    "toolLevel": "minecraft:gold",
-    "toolEfficiency": 4.2,
+    "toolLevel": "minecraft:stone",
+    "toolEfficiency": 4.8,
     "tints": {
         "glyph": "543854",
         "texture": "543854"
