@@ -1,0 +1,11 @@
+[
+  {
+    "key": "salted_wound",
+    "attributes": {
+      "**generic.attack_damage": 0.05
+    },
+    "effects": {
+      "bleeding": -1
+    }
+  }
+]

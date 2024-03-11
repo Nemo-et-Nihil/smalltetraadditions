@@ -1,0 +1,36 @@
+{
+    "key": "rock_salt",
+    "category": "stone",
+    "primary": "4.6",
+    "secondary": "2.5",
+    "tertiary": "0",
+    "durability": "425",
+    "integrityCost": "1",
+    "integrityGain": "5",
+    "magicCapacity": "90",
+    "toolLevel": "minecraft:iron",
+    "toolEfficiency": "5",
+    "tints": {
+        "glyph": "dd9a8f",
+        "texture": "dd9a8f"
+    },
+    "textures": [
+        "grainy",
+        "crude",
+        "default"
+    ],
+    "material": {
+        "items": [
+            "spelunkery:rock_salt_block"
+        ]
+    },
+    "requiredTools": {
+        "hammer_dig": "minecraft:gold"
+    },
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "spelunkery"
+        }
+    ]
+}

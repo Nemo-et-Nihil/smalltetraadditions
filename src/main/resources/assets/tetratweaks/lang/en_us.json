@@ -40,6 +40,8 @@
   "tetra.material.cinnabar.prefix": "Cinnabar",
   "tetra.material.nephrite": "Nephrite",
   "tetra.material.nephrite.prefix": "Nephrite",
+  "tetra.material.rock_salt": "Rock Salt",
+  "tetra.material.rock_salt.prefix": "Rock Salt",
   "tetra.material.socket_spelunkery_cinnabar": "Cinnabar socket",
   "tetra.material.socket_spelunkery_cinnabar.prefix": "Cinnabar",
   "tetra.material.socket_spelunkery_nephrite": "Nephrite socket",
@@ -104,5 +106,7 @@
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
-  "tetra.improvement.evil_embodied.description": "Doubles damage"
+  "tetra.improvement.evil_embodied.description": "Doubles damage",
+  "tetra.improvement.salted_wound.name": "Salted Wound",
+  "tetra.improvement.salted_wound.description": "Increases damage, but lowers bleeding"
 }
