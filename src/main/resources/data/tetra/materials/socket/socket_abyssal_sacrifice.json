@@ -16,7 +16,7 @@
     "effects": {
         "bleeding": 2,
         "reaching":[15,0.5],
-        "criticalStrike": 25        
+        "criticalStrike": [25,2]
     },
     "tints": {
         "glyph": "441494",
