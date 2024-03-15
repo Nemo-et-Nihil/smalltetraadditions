@@ -100,6 +100,7 @@
 
   "tetra.material.cactus": "Cactus",
   "tetra.material.cactus.prefix": "Cactus",
+
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire",
 
@@ -111,10 +112,10 @@
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
   "tetra.improvement.evil_embodied.description": "Doubles damage",
   "tetra.material.feature.evil_embodied": "Evil Embodied",
-  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious\nwill have their damage doubled to compensate for the curse.",
+  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious\nwill have their damage doubled to compensate for the fourth curse.\nEnemies will also suffer debuffs when attacked",
 
   "tetra.improvement.salted_wound.name": "Salted Wound",
   "tetra.improvement.salted_wound.description": "Increases damage, but lowers bleeding",
   "tetra.material.feature.salted_wound": "Salted Wound",
-  "tetra.material.feature.salted_wound.tooltip": "Tool heads and blades crafted from rock salt\nwill deal slightly more damage,\nat the cost of losing 2 levels of bleeding.\nAdditionally, blades and axe heads will receive the Smite VII enchantment. "
+  "tetra.material.feature.salted_wound.tooltip": "Tool heads and blades crafted from rock salt will deal\n slightly more damage,at the cost of losing 2 levels of bleeding.\nAdditionally, blades and axe heads will receive the Smite VII enchantment. "
 }

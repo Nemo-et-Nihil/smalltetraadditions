@@ -9,9 +9,9 @@
   "integrityGain": "8",
   "magicCapacity": "235",
   "toolLevel": "minecraft:netherite",
-  "toolEfficiency": "9.5",
+  "toolEfficiency": "10",
   "effects": {
-    "stabilizing": 10
+    "stabilizing": 15
   },
   "tints": {
     "glyph": "1DD68E",
