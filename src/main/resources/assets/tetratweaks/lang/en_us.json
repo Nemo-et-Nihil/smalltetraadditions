@@ -106,15 +106,15 @@
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
   "tetra.material.feature.cactus_bleeding": "Cactus Bleeding",
-  "tetra.material.feature.cactus_bleeding.tooltip": "Tool heads and blade modules crafted from cactus will gain the bleeding 2 effect.",
+  "tetra.material.feature.cactus_bleeding.tooltip": "Tool heads and blade modules crafted from\ncactus will gain the bleeding 2 effect.",
 
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
   "tetra.improvement.evil_embodied.description": "Doubles damage",
-  "tetra.material.feature.evil_embodied.name": "Evil Embodied",
-  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious\n will have their damage doubled to compensate for the curse.",
+  "tetra.material.feature.evil_embodied": "Evil Embodied",
+  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious\nwill have their damage doubled to compensate for the curse.",
 
   "tetra.improvement.salted_wound.name": "Salted Wound",
   "tetra.improvement.salted_wound.description": "Increases damage, but lowers bleeding",
-  "tetra.material.feature.salted_wound.name": "Salted Wound",
-  "tetra.material.feature.salted_wound.tooltip": "Tool heads and blades crafted from rock salt will deal slightly more damage,\nat the cost of losing 2 levels of bleeding\nAdditionally, blades and axe heads will receive the Smite VII enchantment. "
+  "tetra.material.feature.salted_wound": "Salted Wound",
+  "tetra.material.feature.salted_wound.tooltip": "Tool heads and blades crafted from rock salt\nwill deal slightly more damage,\nat the cost of losing 2 levels of bleeding.\nAdditionally, blades and axe heads will receive the Smite VII enchantment. "
 }
