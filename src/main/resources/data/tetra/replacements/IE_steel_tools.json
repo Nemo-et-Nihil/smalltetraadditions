@@ -1,29 +1,29 @@
- [
+[
   {
     "conditions": [
       {
         "type": "forge:mod_loaded",
-        "modid": "majruszsdifficulty"
+        "modid": "immersiveengineering"
       }
     ],
     "predicate": {
       "items": [
-        "majruszsdifficulty:enderium_axe"
+        "immersiveengineering:axe_steel"
       ]
     },
     "item": "tetra:modular_double",
     "modules": {
       "double/head_left": [
         "double/basic_axe_left",
-        "basic_axe/enderium"
+        "basic_axe/steel"
       ],
       "double/head_right": [
         "double/butt_right",
-        "butt/enderium"
+        "butt/steel"
       ],
       "double/handle": [
         "double/basic_handle",
-        "basic_handle/stick"
+        "basic_handle/treated_stick"
       ]
     }
   },
@@ -31,27 +31,27 @@
     "conditions": [
       {
         "type": "forge:mod_loaded",
-        "modid": "majruszsdifficulty"
+        "modid": "immersiveengineering"
       }
     ],
     "predicate": {
       "items": [
-        "majruszsdifficulty:enderium_hoe"
+        "immersiveengineering:hoe_steel"
       ]
     },
     "item": "tetra:modular_double",
     "modules": {
       "double/head_left": [
         "double/hoe_left",
-        "hoe/enderium"
+        "hoe/steel"
       ],
       "double/head_right": [
         "double/butt_right",
-        "butt/enderium"
+        "butt/steel"
       ],
       "double/handle": [
         "double/basic_handle",
-        "basic_handle/stick"
+        "basic_handle/treated_stick"
       ]
     }
   },
@@ -59,27 +59,27 @@
     "conditions": [
       {
         "type": "forge:mod_loaded",
-        "modid": "majruszsdifficulty"
+        "modid": "immersiveengineering"
       }
     ],
     "predicate": {
       "items": [
-        "majruszsdifficulty:enderium_pickaxe"
+        "immersiveengineering:pickaxe_steel"
       ]
     },
     "item": "tetra:modular_double",
     "modules": {
       "double/head_left": [
         "double/basic_pickaxe_left",
-        "basic_pickaxe/enderium"
+        "basic_pickaxe/steel"
       ],
       "double/head_right": [
         "double/basic_pickaxe_right",
-        "basic_pickaxe/enderium"
+        "basic_pickaxe/steel"
       ],
       "double/handle": [
         "double/basic_handle",
-        "basic_handle/stick"
+        "basic_handle/treated_stick"
       ]
     }
   },
@@ -87,23 +87,23 @@
     "conditions": [
       {
         "type": "forge:mod_loaded",
-        "modid": "majruszsdifficulty"
+        "modid": "immersiveengineering"
       }
     ],
     "predicate": {
       "items": [
-        "majruszsdifficulty:enderium_shovel"
+        "immersiveengineering:shovel_steel"
       ]
     },
     "item": "tetra:modular_single",
     "modules": {
       "single/head": [
         "single/basic_shovel",
-        "basic_shovel/enderium"
+        "basic_shovel/steel"
       ],
       "single/handle": [
         "single/basic_handle",
-        "basic_handle/stick"
+        "basic_handle/treated_stick"
       ]
     }
   },
@@ -111,31 +111,31 @@
     "conditions": [
       {
         "type": "forge:mod_loaded",
-        "modid": "majruszsdifficulty"
+        "modid": "immersiveengineering"
       }
     ],
     "predicate": {
       "items": [
-        "majruszsdifficulty:enderium_sword"
+        "immersiveengineering:sword_steel"
       ]
     },
     "item": "tetra:modular_sword",
     "modules": {
       "sword/blade": [
         "sword/basic_blade",
-        "basic_blade/enderium"
+        "basic_blade/steel"
       ],
       "sword/hilt": [
         "sword/basic_hilt",
-        "basic_hilt/stick"
+        "basic_hilt/treated_stick"
       ],
       "sword/pommel": [
         "sword/decorative_pommel",
-        "decorative_pommel/enderium"
+        "decorative_pommel/steel"
       ],
       "sword/guard": [
         "sword/makeshift_guard",
-        "makeshift_guard/enderium"
+        "makeshift_guard/steel"
       ]
     }
   }

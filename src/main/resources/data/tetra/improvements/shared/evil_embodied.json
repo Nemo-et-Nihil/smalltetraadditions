@@ -3,9 +3,9 @@
     "key": "evil_embodied",
     "attributes":{"**generic.attack_damage":1},
     "effects": {
-      "severing":[20,5],
+      "severing":[15,10],
       "bleeding": 2,
-      "stun": [20,10]
+      "stun": [20,4]
     }
   }
 ]
