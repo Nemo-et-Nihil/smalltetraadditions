@@ -105,6 +105,8 @@
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
+  "tetra.material.feature.cactus_bleeding": "Cactus Bleeding",
+  "tetra.material.feature.cactus_bleeding.tooltip": "Tool heads and blade modules crafted from cactus will gain the bleeding 2 effect",
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
   "tetra.improvement.evil_embodied.description": "Doubles damage",
   "tetra.improvement.salted_wound.name": "Salted Wound",
