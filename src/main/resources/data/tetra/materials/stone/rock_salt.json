@@ -32,5 +32,7 @@
             "type": "forge:mod_loaded",
             "modid": "spelunkery"
         }
+    ],
+    "features": ["salted_wound"
     ]
 }

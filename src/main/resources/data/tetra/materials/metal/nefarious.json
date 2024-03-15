@@ -31,5 +31,7 @@
       "type": "forge:mod_loaded",
       "modid": "enigmaticlegacy"
     }
+  ],
+  "features": ["evil_embodied"
   ]
 }
