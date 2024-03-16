@@ -117,6 +117,12 @@
   "tetra.material.myrmex_desert_chitin.prefix": "Desert Myrmex Chitin",
   "tetra.material.phantasmal_ingot": "Phantasmal Ingot",
   "tetra.material.phantasmal_ingot.prefix": "Phantasmal Ingot",
+  "tetra.material.troll_leather": "Troll Leather",
+  "tetra.material.troll_leather.prefix": "Troll Leather",
+  "tetra.material.dread_stone": "Dreadstone",
+  "tetra.material.dread_stone.prefix": "Dreadstone",
+  "tetra.material.dreadwood": "Dreadwood",
+  "tetra.material.dreadwood.prefix": "Dreadwood",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",

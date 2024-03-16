@@ -1,0 +1,42 @@
+{
+  "key": "dreadwood",
+  "category": "stone",
+  "primary": 7,
+  "secondary": 7,
+  "tertiary": 0,
+  "durability": 1024,
+  "integrityCost": 1,
+  "integrityGain": 3,
+  "magicCapacity": 124,
+  "toolLevel": "minecraft:stone",
+  "toolEfficiency": 9,
+  "tints": {
+    "glyph": "26282e",
+    "texture": "26282e"
+  },
+  "effects": {
+    "unstable": 15
+  },
+  "improvements": {
+    "arrested": 0
+  },
+  "textures": [
+    "grainy",
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "iceandfire:dread_stone"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:diamond"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iceandfire"
+    }
+  ]
+}
