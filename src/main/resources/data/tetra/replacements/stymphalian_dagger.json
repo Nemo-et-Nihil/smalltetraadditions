@@ -14,8 +14,8 @@
   "item": "tetra:modular_sword",
   "modules": {
     "sword/blade": [
-      "sword/shortblade",
-      "shortblade/stymphalian_bird_feather"
+      "sword/short_blade",
+      "short_blade/stymphalian_bird_feather"
     ],
     "sword/hilt": [
       "sword/basic_hilt",
