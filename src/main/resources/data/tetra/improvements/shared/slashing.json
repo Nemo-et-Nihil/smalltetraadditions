@@ -2,7 +2,7 @@
   {
     "key": "slashing",
     "effects": {
-      "sweeping": [3,0.75],
+      "sweeping": [6,1],
       "truesweep": 1
     }
   }
