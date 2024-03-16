@@ -92,7 +92,7 @@
     ],
     "predicate": {
       "items": [
-        "iceandfire:myrmex_desert_shovel"
+        "iceandfire:myrmex_jungle_shovel"
       ]
     },
     "item": "tetra:modular_single",
@@ -116,7 +116,7 @@
     ],
     "predicate": {
       "items": [
-        "iceandfire:myrmex_desert_sword"
+        "iceandfire:myrmex_jungle_sword"
       ]
     },
     "item": "tetra:modular_sword",
