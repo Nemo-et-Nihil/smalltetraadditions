@@ -115,6 +115,8 @@
   "tetra.material.myrmex_jungle_chitin.prefix": "Jungle Myrmex Chitin",
   "tetra.material.myrmex_desert_chitin": "Desert Myrmex Chitin",
   "tetra.material.myrmex_desert_chitin.prefix": "Desert Myrmex Chitin",
+  "tetra.material.phantasmal_ingot": "Phantasmal Ingot",
+  "tetra.material.phantasmal_ingot.prefix": "Phantasmal Ingot",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",

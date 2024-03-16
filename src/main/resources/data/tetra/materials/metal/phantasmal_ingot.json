@@ -1,0 +1,39 @@
+{
+  "key": "phantasmal_ingot",
+  "category": "metal",
+  "primary": "9.5",
+  "secondary": "1.2",
+  "tertiary": "6",
+  "durability": "3000",
+  "integrityCost": "2",
+  "integrityGain": "9",
+  "magicCapacity": "224",
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": "13",
+  "tints": {
+    "glyph": "e2fcf7",
+    "texture": "e2fcf7"
+  },
+  "effects": {
+    "howling": [2,5]
+  },
+  "textures": [
+    "shiny",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "iceandfire:ghost_ingot"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "iceandfire"
+    }
+  ]
+}
+
