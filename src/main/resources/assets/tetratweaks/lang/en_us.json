@@ -111,6 +111,10 @@
   "tetra.material.stymphalian_bird_feather.prefix": "Stymphalian Bird Feather",
   "tetra.material.hippogryph_talon": "Hippogryph Talon",
   "tetra.material.hippogryph_talon.prefix": "Hippogryph Talon",
+  "tetra.material.myrmex_jungle_chitin": "Jungle Myrmex Chitin",
+  "tetra.material.myrmex_jungle_chitin.prefix": "Jungle Myrmex Chitin",
+  "tetra.material.myrmex_desert_chitin": "Desert Myrmex Chitin",
+  "tetra.material.myrmex_desert_chitin.prefix": "Desert Myrmex Chitin",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
