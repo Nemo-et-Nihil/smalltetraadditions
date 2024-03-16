@@ -1,18 +1,18 @@
 {
-  "key": "koboleton_bone",
+  "key": "witherbone",
   "category": "bone",
-  "primary": "6",
-  "secondary": "2.3",
-  "tertiary": "4",
-  "durability": "215",
+  "primary": "5.5",
+  "secondary": "2.9",
+  "tertiary": "5",
+  "durability": "875",
   "integrityCost": "1",
-  "integrityGain": "6",
-  "magicCapacity": "165",
+  "integrityGain": "7",
+  "magicCapacity": "84",
   "toolLevel": "minecraft:iron",
   "toolEfficiency": "6",
   "tints": {
-    "glyph": "4c442c",
-    "texture": "4c442c"
+    "glyph": "2d2d2d",
+    "texture": "2d2d2d"
   },
   "textures": [
     "bone",
@@ -20,7 +20,7 @@
   ],
   "material": {
     "items": [
-      "cataclysm:koboleton_bone"
+      "iceandfire:witherbone"
     ]
   },
   "requiredTools": {
@@ -29,7 +29,7 @@
   "conditions":[
     {
       "type": "forge:mod_loaded",
-      "modid": "cataclysm"
+      "modid": "iceandfire"
     }
   ]
 }
