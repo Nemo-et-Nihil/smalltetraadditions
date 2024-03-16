@@ -103,6 +103,10 @@
 
   "tetra.material.socket_forge_sapphire": "Sapphire socket",
   "tetra.material.socket_forge_sapphire.prefix": "Sapphire",
+  "tetra.material.dragonbone": "Dragon Bone",
+  "tetra.material.dragonbone.prefix": "Dragon Bone",
+  "tetra.material.witherbone": "Wither Bone",
+  "tetra.material.witherbone.prefix": "Wither Bone",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",

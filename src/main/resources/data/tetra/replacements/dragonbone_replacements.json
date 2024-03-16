@@ -15,15 +15,15 @@
     "modules": {
       "double/head_left": [
         "double/basic_axe_left",
-        "basic_axe/dragon_bone"
+        "basic_axe/dragonbone"
       ],
       "double/head_right": [
         "double/butt_right",
-        "butt/dragon_bone"
+        "butt/dragonbone"
       ],
       "double/handle": [
         "double/basic_handle",
-        "basic_handle/wither_bone"
+        "basic_handle/witherbone"
       ]
     }
   },
@@ -43,15 +43,15 @@
     "modules": {
       "double/head_left": [
         "double/hoe_left",
-        "hoe/dragon_bone"
+        "hoe/dragonbone"
       ],
       "double/head_right": [
         "double/butt_right",
-        "butt/dragon_bone"
+        "butt/dragonbone"
       ],
       "double/handle": [
         "double/basic_handle",
-        "basic_handle/wither_bone"
+        "basic_handle/witherbone"
       ]
     }
   },
@@ -71,15 +71,15 @@
     "modules": {
       "double/head_left": [
         "double/basic_pickaxe_left",
-        "basic_pickaxe/dragon_bone"
+        "basic_pickaxe/dragonbone"
       ],
       "double/head_right": [
         "double/basic_pickaxe_right",
-        "basic_pickaxe/dragon_bone"
+        "basic_pickaxe/dragonbone"
       ],
       "double/handle": [
         "double/basic_handle",
-        "basic_handle/wither_bone"
+        "basic_handle/witherbone"
       ]
     }
   },
@@ -99,11 +99,11 @@
     "modules": {
       "single/head": [
         "single/basic_shovel",
-        "basic_shovel/dragon_bone"
+        "basic_shovel/dragonbone"
       ],
       "single/handle": [
         "single/basic_handle",
-        "basic_handle/wither_bone"
+        "basic_handle/witherbone"
       ]
     }
   },
@@ -123,19 +123,19 @@
     "modules": {
       "sword/blade": [
         "sword/basic_blade",
-        "basic_blade/dragon_bone"
+        "basic_blade/dragonbone"
       ],
       "sword/hilt": [
         "sword/basic_hilt",
-        "basic_hilt/wither_bone"
+        "basic_hilt/witherbone"
       ],
       "sword/pommel": [
         "sword/decorative_pommel",
-        "decorative_pommel/dragon_bone"
+        "decorative_pommel/dragonbone"
       ],
       "sword/guard": [
         "sword/makeshift_guard",
-        "makeshift_guard/dragon_bone"
+        "makeshift_guard/dragonbone"
       ]
     }
   }
