@@ -107,11 +107,25 @@
   "tetra.material.dragonbone.prefix": "Dragon Bone",
   "tetra.material.witherbone": "Wither Bone",
   "tetra.material.witherbone.prefix": "Wither Bone",
+  "tetra.material.stymphalian_bird_feather": "Stymphalian Bird Feather",
+  "tetra.material.stymphalian_bird_feather.prefix": "Stymphalian Bird Feather",
+  "tetra.material.hippogryph_talon": "Hippogryph Talon",
+  "tetra.material.hippogryph_talon.prefix": "Hippogryph Talon",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
   "tetra.material.feature.cactus_bleeding": "Cactus Bleeding",
   "tetra.material.feature.cactus_bleeding.tooltip": "Tool heads and blade modules crafted from\ncactus will gain the bleeding 2 effect.",
+
+  "tetra.improvement.slashing.name": "Slashing",
+  "tetra.improvement.slashing.description": "Every attack is a sweeping attack",
+  "tetra.material.feature.slashing": "Slashing",
+  "tetra.material.feature.slashing.tooltip": "Blade modules crafted from a hippogryph talon will gain the following benefits:\nEvery attack is a sweeping attack, and can apply enchantment and item effects.",
+
+  "tetra.improvement.featherweight.name": "Featherweight",
+  "tetra.improvement.featherweight.description": "Increases attack speed",
+  "tetra.material.feature.featherweight": "Featherweight",
+  "tetra.material.feature.featherweight.tooltip": "Major modules crafted from stymphalian\nbird feathers will greatly increase attack speed.",
 
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
   "tetra.improvement.evil_embodied.description": "Doubles damage",

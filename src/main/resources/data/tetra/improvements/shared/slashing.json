@@ -1,0 +1,9 @@
+[
+  {
+    "key": "slashing",
+    "effects": {
+      "sweeping": [3,0.75],
+      "truesweep": 1
+    }
+  }
+]
