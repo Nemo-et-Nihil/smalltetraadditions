@@ -18,8 +18,8 @@
         "basic_axe/lightning_dragonsteel"
       ],
       "double/head_right": [
-        "double/butt_right",
-        "butt/lightning_dragonsteel"
+        "double/basic_axe_right",
+        "basic_axe/lightning_dragonsteel"
       ],
       "double/handle": [
         "double/basic_handle",

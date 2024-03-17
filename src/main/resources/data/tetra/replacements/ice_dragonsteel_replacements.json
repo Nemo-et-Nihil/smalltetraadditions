@@ -18,8 +18,8 @@
         "basic_axe/ice_dragonsteel"
       ],
       "double/head_right": [
-        "double/butt_right",
-        "butt/ice_dragonsteel"
+        "double/basic_axe_right",
+        "basic_axe/ice_dragonsteel"
       ],
       "double/handle": [
         "double/basic_handle",
