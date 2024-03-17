@@ -153,7 +153,7 @@
   "tetra.improvement.dragon_fire.name": "Dragon Fire",
   "tetra.improvement.dragon_fire.description": "Placeholder for custom effect, currently increases knockback and adds bleading 2",
   "tetra.material.feature.dragon_fire": "Dragon Fire",
-  "tetra.material.feature.dragon_fire.tooltip": "Tool heads and blades crafted from Fire Dragonsteel will have\ntheir knockback increased, and inflict bleeding 2.\n",
+  "tetra.material.feature.dragon_fire.tooltip": "Tool heads and blades crafted from Fire Dragonsteel will\nhave increased knockback, and inflict bleeding 2.\n",
 
   "tetra.improvement.dragon_ice.name": "Dragon Ice",
   "tetra.improvement.dragon_ice.description": "Placeholder for custom effect, currently adds chance to stun and earthbind",
@@ -163,7 +163,7 @@
   "tetra.improvement.dragon_lightning.name": "Dragon Lightning",
   "tetra.improvement.dragon_lightning.description": "Placeholder for custom effect, currently increases knockback and damage",
   "tetra.material.feature.dragon_lightning": "Dragon Lightning",
-  "tetra.material.feature.dragon_lightning.tooltip": "Tool heads and blades crafted from Lightning Dragonsteel will have\ntheir knockback increased, and inflict bleeding and extra damage.\n",
+  "tetra.material.feature.dragon_lightning.tooltip": "Tool heads and blades crafted from Lightning Dragonsteel will\nhave increased knockback, and inflict bleeding and extra damage.\n",
 
 
   "tetra.improvement.salted_wound.name": "Salted Wound",
