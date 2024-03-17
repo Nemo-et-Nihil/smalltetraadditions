@@ -123,6 +123,12 @@
   "tetra.material.dread_stone.prefix": "Dreadstone",
   "tetra.material.dreadwood": "Dreadwood",
   "tetra.material.dreadwood.prefix": "Dreadwood",
+  "tetra.material.fire_dragonsteel": "Fire Dragonsteel",
+  "tetra.material.fire_dragonsteel.prefix": "Fire Dragonsteel",
+  "tetra.material.ice_dragonsteel": "Ice Dragonsteel",
+  "tetra.material.ice_dragonsteel.prefix": "Ice Dragonsteel",
+  "tetra.material.lightning_dragonsteel": "Lightning Dragonsteel",
+  "tetra.material.lightning_dragonsteel.prefix": "Lightning Dragonsteel",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
