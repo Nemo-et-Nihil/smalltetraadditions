@@ -1,9 +1,9 @@
 {
   "key": "nefarious",
   "category": "metal",
-  "primary": "12.5",
-  "secondary": "4.5",
-  "tertiary": "3.7",
+  "primary": "13",
+  "secondary": "5",
+  "tertiary": "4.3",
   "durability": "3450",
   "integrityCost": "2",
   "integrityGain": "10",

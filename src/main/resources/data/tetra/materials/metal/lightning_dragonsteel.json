@@ -1,9 +1,9 @@
 {
   "key": "lightning_dragonsteel",
   "category": "metal",
-  "primary": "12",
+  "primary": "13",
   "secondary": "4",
-  "tertiary": "4",
+  "tertiary": "2.5",
   "durability": "8000",
   "integrityCost": "2",
   "integrityGain": "10",
