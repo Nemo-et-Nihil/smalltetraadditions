@@ -163,7 +163,7 @@
   "tetra.improvement.dragon_lightning.name": "Dragon Lightning",
   "tetra.improvement.dragon_lightning.description": "Placeholder for custom effect, currently increases knockback and damage",
   "tetra.material.feature.dragon_lightning": "Dragon Lightning",
-  "tetra.material.feature.dragon_lightning.tooltip": "Tool heads and blades crafted from Lightning Dragonsteel will\nhave increased knockback, and inflict bleeding and extra damage.\n",
+  "tetra.material.feature.dragon_lightning.tooltip": "Tool heads and blades crafted from Lightning Dragonsteel\nwill have increased knockback, and inflict bleeding and extra damage.\n",
 
 
   "tetra.improvement.salted_wound.name": "Salted Wound",
