@@ -1,0 +1,12 @@
+[
+  {
+    "key": "dragon_lightning",
+    "attributes": {
+      "**generic.attack_damage": 0.2,
+      "**generic.attack_knockback": 0.5
+    },
+    "effects": {
+      "bleeding": 1
+    }
+  }
+]

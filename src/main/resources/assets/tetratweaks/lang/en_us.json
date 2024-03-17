@@ -148,7 +148,23 @@
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
   "tetra.improvement.evil_embodied.description": "Doubles damage",
   "tetra.material.feature.evil_embodied": "Evil Embodied",
-  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious will have\ntheir damage doubled to compensate for the fourth curse.\nEnemies will also suffer debuffs when attacked",
+  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious will have\ntheir damage doubled to compensate for the fourth curse.\nEnemies will also suffer debuffs when attacked.",
+
+  "tetra.improvement.dragon_fire.name": "Dragon Fire",
+  "tetra.improvement.dragon_fire.description": "Placeholder for custom effect, currently increases knockback and adds bleading 2",
+  "tetra.material.feature.dragon_fire": "Dragon Fire",
+  "tetra.material.feature.dragon_fire.tooltip": "Tool heads and blades crafted from Fire Dragonsteel will have\ntheir knockback increased, and inflict bleeding 2.\n",
+
+  "tetra.improvement.dragon_ice.name": "Dragon Ice",
+  "tetra.improvement.dragon_ice.description": "Placeholder for custom effect, currently adds chance to stun and earthbind",
+  "tetra.material.feature.dragon_ice": "Dragon Ice",
+  "tetra.material.feature.dragon_ice.tooltip": "Tool heads and blades crafted from Ice Dragonsteel will have\na chance to stun or slow enemies when attacking.\n",
+
+  "tetra.improvement.dragon_lightning.name": "Dragon Lightning",
+  "tetra.improvement.dragon_lightning.description": "Placeholder for custom effect, currently increases knockback and damage",
+  "tetra.material.feature.dragon_lightning": "Dragon Lightning",
+  "tetra.material.feature.dragon_lightning.tooltip": "Tool heads and blades crafted from Lightning Dragonsteel will have\ntheir knockback increased, and inflict bleeding and extra damage.\n",
+
 
   "tetra.improvement.salted_wound.name": "Salted Wound",
   "tetra.improvement.salted_wound.description": "Increases damage, but lowers bleeding",
