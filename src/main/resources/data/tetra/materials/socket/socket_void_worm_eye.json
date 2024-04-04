@@ -13,7 +13,10 @@
   "toolEfficiency": 0,
   "effects": {
     "quickStrike": 6,
-    "janking":[6,0.02],
+    "janking": [
+      6,
+      0.02
+    ],
     "armorPenetration": 20
   },
   "tints": {
@@ -24,7 +27,11 @@
     "default"
   ],
   "experienceCost": 3,
-  "material":{"items":["alexsmobs:void_worm_eye"]},
+  "material": {
+    "items": [
+      "alexsmobs:void_worm_eye"
+    ]
+  },
   "conditions": [
     {
       "type": "forge:mod_loaded",
