@@ -5,7 +5,7 @@
     "effects": {
       "severing":[15,10],
       "bleeding": 2,
-      "stun": [20,4]
+      "armorPenetration": 25
     }
   }
 ]
