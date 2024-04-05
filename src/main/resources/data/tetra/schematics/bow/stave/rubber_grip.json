@@ -1,0 +1,33 @@
+{
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ],
+  "replace": false,
+  "slots": [
+    "bow/stave"
+  ],
+  "materialSlotCount": 1,
+  "glyph": {
+    "textureX": 16
+  },
+  "displayType": "improvement",
+  "outcomes": [
+    {
+      "material": {
+        "items": [
+          "create_dd:rubber"
+        ],
+        "count": 2
+      },
+      "requiredTools": {
+        "cut": "minecraft:gold"
+      },
+      "improvements": {
+        "": 1
+      }
+    }
+  ]
+}
