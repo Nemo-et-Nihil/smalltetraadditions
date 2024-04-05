@@ -1,6 +1,6 @@
 [
   {
-    "key": "single_handle/rubber_grip",
+    "key": "basic_handle/rubber_grip",
     "level": 1,
     "durability": 220,
     "group": "wrap",
@@ -17,8 +17,7 @@
     },
     "models": [
       {
-        "type": "static",
-        "location": "tetra:item/module/bow/stave/improvements/wrap",
+        "location": "tetra:item/module/single/handle/improvements/wrap",
         "tint": "2c2a2a"
       }
     ]

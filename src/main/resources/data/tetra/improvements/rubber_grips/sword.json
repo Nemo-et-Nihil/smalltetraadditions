@@ -17,8 +17,7 @@
     },
     "models": [
       {
-        "type": "static",
-        "location": "tetra:item/module/bow/stave/improvements/wrap",
+        "location": "tetra:item/module/sword/hilt/basic/improvements/wrap",
         "tint": "2c2a2a"
       }
     ]
