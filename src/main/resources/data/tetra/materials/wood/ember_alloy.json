@@ -1,0 +1,35 @@
+{
+  "key": "ember_alloy",
+  "category": "wood",
+  "primary": 4.8,
+  "secondary": 2.5,
+  "tertiary": 5.5,
+  "durability": 72,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 112,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 5,
+  "tints": {
+    "glyph": "b24328",
+    "texture": "b24328"
+  },
+  "textures": [
+    "crude",
+    "wooden"
+  ],
+  "material": {
+    "items": [
+      "create_dd:ember_alloy"
+    ]
+  },
+  "requiredTools": {
+    "axe_dig": "minecraft:gold"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ]
+}

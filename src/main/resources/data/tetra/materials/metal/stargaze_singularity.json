@@ -1,0 +1,35 @@
+{
+  "key": "stargaze_singularity",
+  "category": "metal",
+  "primary": 8.2,
+  "secondary": 6,
+  "tertiary": 5,
+  "durability": 3064,
+  "integrityCost": 3,
+  "integrityGain": 9,
+  "magicCapacity": 148,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 12,
+  "tints": {
+    "glyph": "60517f",
+    "texture": "60517f"
+  },
+  "textures": [
+    "shiny",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "create_dd:stargaze_singularity"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:netherite"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ]
+}

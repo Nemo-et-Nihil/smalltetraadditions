@@ -1,0 +1,35 @@
+{
+  "key": "chromatic_compound",
+  "category": "gem",
+  "primary": 5.5,
+  "secondary": 3,
+  "tertiary": 0,
+  "durability": 1200,
+  "integrityCost": 2,
+  "integrityGain": 4,
+  "magicCapacity": 65,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 8,
+  "tints": {
+    "glyph": "8f4e72",
+    "texture": "8f4e72"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "create_dd:chromatic_compound"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ]
+}

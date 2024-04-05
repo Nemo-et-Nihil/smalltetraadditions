@@ -1,0 +1,39 @@
+{
+  "key": "lapis_alloy",
+  "category": "metal",
+  "primary": 5,
+  "secondary": 3,
+  "tertiary": 1,
+  "durability": 200,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 163,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 10,
+  "tints": {
+    "glyph": "5f6a91",
+    "texture": "5f6a91"
+  },
+  "effects": {
+    "intuit": 1
+  },
+  "textures": [
+    "shiny",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "create_dd:lapis_alloy"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ]
+}
+
