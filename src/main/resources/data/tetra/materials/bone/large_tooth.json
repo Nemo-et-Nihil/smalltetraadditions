@@ -1,15 +1,15 @@
 {
 "key": "large_tooth",
 "category": "bone",
-"primary": "6.2",
-"secondary": "3.6",
-"tertiary": "2",
-"durability": "375",
-"integrityCost": "2",
-"integrityGain": "6",
-"magicCapacity": "146",
+"primary": 6.2,
+"secondary": 3.6,
+"tertiary": 2,
+"durability": 375,
+"integrityCost": 2,
+"integrityGain": 6,
+"magicCapacity": 146,
 "toolLevel": "minecraft:iron",
-"toolEfficiency": "7",
+"toolEfficiency": 7,
 "tints": {
 "glyph": "6c645c",
 "texture": "6c645c"

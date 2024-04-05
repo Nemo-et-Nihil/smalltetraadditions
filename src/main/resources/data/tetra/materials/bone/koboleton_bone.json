@@ -1,15 +1,15 @@
 {
   "key": "koboleton_bone",
   "category": "bone",
-  "primary": "6",
-  "secondary": "2.3",
-  "tertiary": "4",
-  "durability": "215",
-  "integrityCost": "1",
-  "integrityGain": "6",
-  "magicCapacity": "165",
+  "primary": 6,
+  "secondary": 2.3,
+  "tertiary": 4,
+  "durability": 215,
+  "integrityCost": 1,
+  "integrityGain": 6,
+  "magicCapacity": 165,
   "toolLevel": "minecraft:iron",
-  "toolEfficiency": "6",
+  "toolEfficiency": 6,
   "tints": {
     "glyph": "4c442c",
     "texture": "4c442c"

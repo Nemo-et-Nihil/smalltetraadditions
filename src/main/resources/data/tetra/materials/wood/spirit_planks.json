@@ -1,0 +1,38 @@
+{
+  "key": "spirit_planks",
+  "category": "wood",
+  "primary": 3.3,
+  "secondary": 1.8,
+  "tertiary": 6.5,
+  "durability": 72,
+  "integrityCost": 1,
+  "integrityGain": 4,
+  "magicCapacity": 98,
+  "toolLevel": "minecraft:stone",
+  "toolEfficiency": 3,
+  "tints": {
+    "glyph": "493847",
+    "texture": "493847"
+  },
+  "effects": {
+    "stabilizing": 15
+  },
+  "textures": [
+    "crude",
+    "wooden"
+  ],
+  "material": {
+    "items": [
+      "create_dd:spirit_planks"
+    ]
+  },
+  "requiredTools": {
+    "axe_dig": "minecraft:stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "create_dd"
+    }
+  ]
+}

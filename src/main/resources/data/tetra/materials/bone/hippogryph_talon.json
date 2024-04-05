@@ -1,15 +1,15 @@
 {
   "key": "hippogryph_talon",
   "category": "bone",
-  "primary": "5.5",
-  "secondary": "2.5",
-  "tertiary": "3.5",
-  "durability": "500",
-  "integrityCost": "2",
-  "integrityGain": "6",
-  "magicCapacity": "126",
+  "primary": 5.5,
+  "secondary": 2.5,
+  "tertiary": 3.5,
+  "durability": 500,
+  "integrityCost": 2,
+  "integrityGain": 6,
+  "magicCapacity": 126,
   "toolLevel": "minecraft:iron",
-  "toolEfficiency": "7",
+  "toolEfficiency": 7,
   "tints": {
     "glyph": "1e1e1e",
     "texture": "1e1e1e"
