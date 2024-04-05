@@ -1,15 +1,15 @@
 {
   "key": "nefarious",
   "category": "metal",
-  "primary": "10",
-  "secondary": "5",
-  "tertiary": "3.8",
-  "durability": "3450",
-  "integrityCost": "2",
-  "integrityGain": "10",
-  "magicCapacity": "170",
+  "primary": 10,
+  "secondary": 7,
+  "tertiary": 3.6,
+  "durability": 3500,
+  "integrityCost": 2,
+  "integrityGain": 10,
+  "magicCapacity": 170,
   "toolLevel": "minecraft:netherite",
-  "toolEfficiency": "9",
+  "toolEfficiency": 9,
   "tints": {
     "glyph": "a83ac0",
     "texture": "a83ac0"
@@ -26,12 +26,13 @@
   "requiredTools": {
     "hammer_dig": "minecraft:netherite"
   },
-  "conditions":[
+  "conditions": [
     {
       "type": "forge:mod_loaded",
       "modid": "enigmaticlegacy"
     }
   ],
-  "features": ["evil_embodied"
+  "features": [
+    "evil_embodied"
   ]
 }

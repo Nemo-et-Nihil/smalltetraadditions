@@ -1,17 +1,20 @@
 {
   "key": "ender_rod",
   "category": "misc",
-  "primary": "5.5",
-  "secondary": "0.5",
-  "tertiary": "1.5",
-  "durability": "574",
-  "integrityCost": "2",
-  "integrityGain": "10",
-  "magicCapacity": "172",
-  "toolLevel": "0",
-  "toolEfficiency": "0",
+  "primary": 5.5,
+  "secondary": 0.5,
+  "tertiary": 1.5,
+  "durability": 574,
+  "integrityCost": 2,
+  "integrityGain": 10,
+  "magicCapacity": 172,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
   "effects": {
-    "enderReverb": [3,0.15]
+    "enderReverb": [
+      3,
+      0.15
+    ]
   },
   "tints": {
     "glyph": "0b6759",
@@ -22,12 +25,14 @@
     "default"
   ],
   "material": {
-    "items": [ "enigmaticlegacy:ender_rod" ]
+    "items": [
+      "enigmaticlegacy:ender_rod"
+    ]
   },
   "requiredTools": {
     "hammer_dig": "minecraft:diamond"
   },
-  "conditions":[
+  "conditions": [
     {
       "type": "forge:mod_loaded",
       "modid": "enigmaticlegacy"

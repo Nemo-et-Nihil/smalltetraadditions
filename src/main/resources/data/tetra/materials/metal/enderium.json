@@ -1,16 +1,16 @@
 {
   "key": "enderium",
   "category": "metal",
-  "primary": "8.5",
-  "secondary": "3.2",
-  "tertiary": "3.8",
-  "durability": "2137",
-  "integrityCost": "2",
-  "integrityGain": "8",
-  "magicCapacity": "135",
+  "primary": 8.5,
+  "secondary": 3.2,
+  "tertiary": 3.8,
+  "durability": 2137,
+  "integrityCost": 2,
+  "integrityGain": 9,
+  "magicCapacity": 135,
   "toolLevel": "minecraft:netherite",
-  "toolEfficiency": "10",
-   "tints": {
+  "toolEfficiency": 10,
+  "tints": {
     "glyph": "7B26CB",
     "texture": "7B26CB"
   },
@@ -23,10 +23,10 @@
       "majruszsdifficulty:enderium_ingot"
     ]
   },
-    "requiredTools": {
+  "requiredTools": {
     "hammer_dig": "minecraft:netherite"
   },
-  "conditions":[
+  "conditions": [
     {
       "type": "forge:mod_loaded",
       "modid": "majruszsdifficulty"

@@ -1,15 +1,15 @@
 {
   "key": "uranium",
   "category": "metal",
-  "primary": "7",
-  "secondary": "8",
-  "tertiary": "1",
-  "durability": "1248",
-  "integrityCost": "2",
-  "integrityGain": "8",
-  "magicCapacity": "62",
+  "primary": 7,
+  "secondary": 8,
+  "tertiary": 1,
+  "durability": 1248,
+  "integrityCost": 2,
+  "integrityGain": 8,
+  "magicCapacity": 62,
   "toolLevel": "minecraft:netherite",
-  "toolEfficiency": "8.5",
+  "toolEfficiency": 8.5,
   "tints": {
     "glyph": "74876a",
     "texture": "74876a"
@@ -18,7 +18,9 @@
     "metal",
     "shiny"
   ],
-  "material":{"tag":"forge:ingots/uranium"},
+  "material": {
+    "tag": "forge:ingots/uranium"
+  },
   "requiredTools": {
     "hammer_dig": "minecraft:iron"
   }

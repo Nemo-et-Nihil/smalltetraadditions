@@ -1,15 +1,15 @@
 {
   "key": "steel_wire",
   "category": "fibre",
-  "primary": "6",
-  "secondary": "3.8",
-  "tertiary": "3.0",
-  "durability": "650",
-  "integrityCost": "2",
-  "integrityGain": "5",
-  "magicCapacity": "72",
-  "toolLevel": "0",
-  "toolEfficiency": "0",
+  "primary": 6,
+  "secondary": 3.8,
+  "tertiary": 3.0,
+  "durability": 650,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 72,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
   "tints": {
     "glyph": "1c1c1e",
     "texture": "1c1c1e"
@@ -18,7 +18,9 @@
     "crude",
     "default"
   ],
-  "material":{"tag":"forge:wires/steel"},
+  "material": {
+    "tag": "forge:wires/steel"
+  },
   "requiredTools": {
     "cut": "minecraft:iron"
   }

@@ -1,15 +1,15 @@
 {
   "key": "copper_rod",
   "category": "misc",
-  "primary": "4",
-  "secondary": "4.2",
-  "tertiary": "2.5",
-  "durability": "220",
-  "integrityCost": "1",
-  "integrityGain": "6",
-  "magicCapacity": "78",
-  "toolLevel": "0",
-  "toolEfficiency": "0",
+  "primary": 4,
+  "secondary": 4.2,
+  "tertiary": 2.5,
+  "durability": 220,
+  "integrityCost": 1,
+  "integrityGain": 6,
+  "magicCapacity": 78,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
   "improvements": {
     "workable": 2
   },
@@ -21,7 +21,9 @@
     "crude",
     "default"
   ],
-  "material":{"tag":"forge:rods/copper"},
+  "material": {
+    "tag": "forge:rods/copper"
+  },
   "requiredTools": {
     "hammer_dig": "minecraft:iron"
   }
