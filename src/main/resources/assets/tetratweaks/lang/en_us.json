@@ -144,11 +144,11 @@
   "tetra.material.stargaze_singularity.prefix": "Fire Dragonsteel",
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
-  "tetra.improvement.basic_handle/rubber_grip.description": "Increases damage, speed, and durability, reduces negative handle effects.",
+  "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
   "tetra.improvement.basic_hilt/rubber_grip.name": "Rubber Grip",
-  "tetra.improvement.basic_hilt/rubber_grip.description": "Increases damage, speed, and durability, reduces negative hilt effects.",
+  "tetra.improvement.basic_hilt/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
   "tetra.improvement.stave_grip/rubber_grip.name": "Rubber Grip",
-  "tetra.improvement.stave_grip/rubber_grip.description": "Increases power, draw speed, and durability.",
+  "tetra.improvement.stave_grip/rubber_grip.description": "Increases draw speed and durability.",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",

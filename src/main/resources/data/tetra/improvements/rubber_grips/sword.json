@@ -1,0 +1,26 @@
+[
+  {
+    "key": "basic_hilt/rubber_grip",
+    "level": 1,
+    "durability": 220,
+    "group": "wrap",
+    "integrity": -1,
+    "attributes": {
+      "generic.attack_speed": 0.15,
+      "**generic.attack_damage": 0.05
+    },
+    "effects": {
+      "enderReverb": [
+        -5,
+        -0.5
+      ]
+    },
+    "models": [
+      {
+        "type": "static",
+        "location": "tetra:item/module/bow/stave/improvements/wrap",
+        "tint": "2c2a2a"
+      }
+    ]
+  }
+]
