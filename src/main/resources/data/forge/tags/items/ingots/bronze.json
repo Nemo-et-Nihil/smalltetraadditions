@@ -1,4 +1,10 @@
 {
+  "conditions":[
+    {
+      "type": "forge:mod_loaded",
+      "modid": "majruszsdifficulty"
+    }
+  ],
   "replace": false,
   "values": [
     "create_dd:bronze_ingot"
