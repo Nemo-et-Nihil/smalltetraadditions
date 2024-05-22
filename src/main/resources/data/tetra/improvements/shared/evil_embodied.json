@@ -1,7 +1,7 @@
 [
   {
     "key": "evil_embodied",
-    "attributes":{"**generic.attack_damage":1},
+    "attributes":{"**generic.attack_damage":0.4},
     "effects": {
       "severing":[15,10],
       "bleeding": 2,

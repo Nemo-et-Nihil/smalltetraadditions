@@ -170,9 +170,9 @@
   "tetra.material.feature.featherweight.tooltip": "Major modules crafted from stymphalian\nbird feathers will greatly increase attack speed.",
 
   "tetra.improvement.evil_embodied.name": "Evil Embodied",
-  "tetra.improvement.evil_embodied.description": "Doubles damage",
+  "tetra.improvement.evil_embodied.description": "Increases damage",
   "tetra.material.feature.evil_embodied": "Evil Embodied",
-  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious will have\ntheir damage doubled to compensate for the fourth curse.\nEnemies will also suffer debuffs when attacked.",
+  "tetra.material.feature.evil_embodied.tooltip": "Tool heads and blades crafted from Nefarious will have\ntheir damage increased to compensate for the fourth curse.\nEnemies will also suffer debuffs when attacked.",
 
   "tetra.improvement.dragon_fire.name": "Dragon Fire",
   "tetra.improvement.dragon_fire.description": "Placeholder for custom effect, currently increases knockback and adds bleading 2",
