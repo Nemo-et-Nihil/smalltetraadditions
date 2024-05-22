@@ -1,0 +1,146 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "aquaculture"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "aquaculture:wooden_fillet_knife"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/knife",
+        "knife/oak"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "aquaculture"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "aquaculture:stone_fillet_knife"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/knife",
+        "knife/stone"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "aquaculture"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "aquaculture:iron_fillet_knife"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/knife",
+        "knife/iron"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "aquaculture"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "aquaculture:gold_fillet_knife"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/knife",
+        "knife/gold"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "aquaculture"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "aquaculture:diamond_fillet_knife"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/knife",
+        "knife/diamond"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "aquaculture"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "aquaculture:neptunium_fillet_knife"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/knife",
+        "knife/neptunium"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ]
+    }
+  }
+]
