@@ -1,5 +1,5 @@
 {
-  "key": "strong_bronze",
+  "key": "bronze",
   "category": "metal",
   "primary": 5,
   "secondary": 3.8,
@@ -19,7 +19,9 @@
     "default"
   ],
   "material": {
-    "tag": "forge:ingots/strong_bronze"
+    "items": [
+      "minecraft:nonexistium"
+    ]
   },
   "improvements": {
     "workable": 1
