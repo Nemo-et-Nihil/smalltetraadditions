@@ -19,11 +19,9 @@
     "default"
   ],
   "material": {
-    "tag": [
-      "forge:ingots/strong_bronze"
-    ],
-    "tag": [
-      "forge:ingots/bronze"
+    "tag": "forge:ingots/bronze",
+    "items": [
+      "create_dd:bronze_ingot"
     ]
   },
   "improvements": {
