@@ -20,7 +20,9 @@
   ],
   "material": {
     "tag": [
-      "forge:ingots/strong_bronze",
+      "forge:ingots/strong_bronze"
+    ],
+    "tag": [
       "forge:ingots/bronze"
     ]
   },
