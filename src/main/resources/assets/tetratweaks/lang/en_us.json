@@ -142,10 +142,9 @@
   "tetra.material.lapis_alloy.prefix": "Lapis Alloy",
   "tetra.material.stargaze_singularity": "Stargaze Singularity",
   "tetra.material.stargaze_singularity.prefix": "Stargaze Singularity",
-  "tetra.material.more_bronze": "Bronze",
-  "tetra.material.more_bronze.prefix": "Bronze",
-  "tetra.material.bronze":"Bronze",
-  "tetra.material.bronze.prefix":"Bronze",
+  "tetra.material.strong_bronze": "Bronze",
+  "tetra.material.strong_bronze.prefix": "Bronze",
+
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",

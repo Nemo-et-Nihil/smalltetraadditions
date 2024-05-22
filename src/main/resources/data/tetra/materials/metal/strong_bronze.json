@@ -1,5 +1,5 @@
 {
-  "key": "bronze",
+  "key": "strong_bronze",
   "category": "metal",
   "primary": 5,
   "secondary": 3.8,
@@ -11,17 +11,15 @@
   "toolLevel": "minecraft:iron",
   "toolEfficiency": 6,
   "tints": {
-    "glyph": "bronze_glyph",
-    "texture": "bronze"
+    "glyph": "8b3e3d",
+    "texture": "8b3e3d"
   },
   "textures": [
     "metal",
     "default"
   ],
   "material": {
-    "items": [
-      "minecraft:nonexistium"
-    ]
+    "tag": "forge:ingots/strong_bronze"
   },
   "improvements": {
     "workable": 1
