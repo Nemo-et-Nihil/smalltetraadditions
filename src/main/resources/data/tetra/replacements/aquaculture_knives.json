@@ -14,8 +14,8 @@
     "item": "tetra:modular_sword",
     "modules": {
       "sword/blade": [
-        "sword/knife",
-        "knife/oak"
+        "sword/short_blade",
+        "short_blade/oak"
       ],
       "sword/hilt": [
         "sword/basic_hilt",
@@ -39,7 +39,7 @@
     "modules": {
       "sword/blade": [
         "sword/knife",
-        "knife/stone"
+        "knife/flint"
       ],
       "sword/hilt": [
         "sword/basic_hilt",
