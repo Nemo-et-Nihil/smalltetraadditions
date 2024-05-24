@@ -160,11 +160,6 @@
   "tetra.material.feature.cactus_bleeding": "Cactus Bleeding",
   "tetra.material.feature.cactus_bleeding.tooltip": "Tool heads and blade modules crafted from\ncactus will gain the bleeding 2 effect.",
 
-  "tetra.improvement.gusting_strike.name": "Gusting Strike",
-  "tetra.improvement.gusting_strike.description": "Increases attack knockback",
-  "tetra.material.feature.gusting_strike": "Gusting Strike",
-  "tetra.material.feature.gusting_strike.tooltip": "Socketing a guster eye will greatly increase attack knockback",
-
   "tetra.improvement.slashing.name": "Slashing",
   "tetra.improvement.slashing.description": "Every attack is a sweeping attack",
   "tetra.material.feature.slashing": "Slashing",

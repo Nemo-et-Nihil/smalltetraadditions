@@ -26,7 +26,7 @@
   "requiredTools": {
     "axe_dig": "minecraft:wood"
   },
-  "features": ["cactus_bleeding"
-]
-
+  "features": [
+    "cactus_bleeding"
+  ]
 }
