@@ -145,8 +145,17 @@
   "tetra.material.strong_bronze": "Bronze",
   "tetra.material.strong_bronze.prefix": "Bronze",
 
-  
+  "tetra.material.snail_shell": "Snail Shell",
+  "tetra.material.snail_shell.prefix": "Snail Shell",
+  "tetra.material.maple_planks": "Maple Wood",
+  "tetra.material.maple_planks.prefix": "Maple Wood",
 
+  "tetra.material.thrasher_tooth": "Thrasher Tooth",
+  "tetra.material.thrasher_tooth.prefix": "Thrasher Tooth",
+  "tetra.material.prismarine_rod": "Prismarine Rod",
+  "tetra.material.prismarine_rod.prefix": "Prismarine Rod",
+  "tetra.material.drift_wood": "Driftwood",
+  "tetra.material.drift_wood.prefix": "Driftwood",
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",

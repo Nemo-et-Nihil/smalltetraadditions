@@ -1,0 +1,38 @@
+{
+  "key": "snail_shell",
+  "category": "scale",
+  "primary": 5,
+  "secondary": 0.4,
+  "tertiary": 1,
+  "durability": 225,
+  "integrityCost": 1,
+  "integrityGain": 5,
+  "magicCapacity": 84,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
+  "attributes": {
+    "ggeneric.knockback_resistance": 0.2
+  },
+  "tints": {
+    "glyph": "45b32",
+    "texture": "45b32"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "autumnity:snail_shell_piece"
+    ]
+  },
+  "requiredTools": {
+    "cut": "minecraft:stone"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "autumnity"
+    }
+  ]
+}
