@@ -1,18 +1,18 @@
 {
-  "key": "cerberus_fang",
+  "key": "thrasher_tooth",
   "category": "bone",
-  "primary": 6,
+  "primary": 5.5,
   "secondary": 4,
-  "tertiary": 1.5,
-  "durability": 256,
+  "tertiary": 1,
+  "durability": 650,
   "integrityCost": 2,
-  "integrityGain": 6,
-  "magicCapacity": 120,
+  "integrityGain": 4,
+  "magicCapacity": 92,
   "toolLevel": "minecraft:iron",
   "toolEfficiency": 7,
   "tints": {
-    "glyph": "65635f",
-    "texture": "65635f"
+    "glyph": "fcfcfc",
+    "texture": "fcfcfc"
   },
   "textures": [
     "bone",
@@ -20,16 +20,16 @@
   ],
   "material": {
     "items": [
-      "majruszsdifficulty:cerberus_fang"
+      "upgrade_aquatic:thrasher_tooth"
     ]
   },
   "requiredTools": {
-    "hammer_dig": "minecraft:gold"
+    "hammer_dig": "minecraft:iron"
   },
   "conditions": [
     {
       "type": "forge:mod_loaded",
-      "modid": "majruszsdifficulty"
+      "modid": "upgrade_aquatic"
     }
   ]
 }
