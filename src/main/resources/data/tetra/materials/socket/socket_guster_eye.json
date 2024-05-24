@@ -11,8 +11,9 @@
   "magicCapacity": 0,
   "toolLevel": 0,
   "toolEfficiency": 0,
-  "attributes":{
-    "generic.attack_knockback":3.0},
+  "improvements": {
+    "gusting_strike": 1
+  },
   "tints": {
     "glyph": "fc9b1c",
     "texture": "fc9b1c"
@@ -27,5 +28,7 @@
       "type": "forge:mod_loaded",
       "modid": "alexsmobs"
     }
+  ],
+  "features": ["gusting_strike"
   ]
 }

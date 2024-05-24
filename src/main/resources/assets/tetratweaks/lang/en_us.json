@@ -145,6 +145,8 @@
   "tetra.material.strong_bronze": "Bronze",
   "tetra.material.strong_bronze.prefix": "Bronze",
 
+  
+
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
@@ -157,6 +159,11 @@
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",
   "tetra.material.feature.cactus_bleeding": "Cactus Bleeding",
   "tetra.material.feature.cactus_bleeding.tooltip": "Tool heads and blade modules crafted from\ncactus will gain the bleeding 2 effect.",
+
+  "tetra.improvement.gusting_strike.name": "Gusting Strike",
+  "tetra.improvement.gusting_strike.description": "Increases attack knockback",
+  "tetra.material.feature.gusting_strike": "Gusting Strike",
+  "tetra.material.feature.gusting_strike.tooltip": "Socketing a guster eye will greatly increase attack knockback",
 
   "tetra.improvement.slashing.name": "Slashing",
   "tetra.improvement.slashing.description": "Every attack is a sweeping attack",
