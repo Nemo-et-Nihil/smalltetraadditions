@@ -12,7 +12,7 @@
   "toolLevel": 0,
   "toolEfficiency": 0,
   "improvements": {
-    "gusting_strike": 1
+    "gusting_strike": 0
   },
   "tints": {
     "glyph": "fc9b1c",
@@ -22,13 +22,18 @@
     "default"
   ],
   "experienceCost": 3,
-  "material":{"items":["alexsmobs:guster_eye"]},
+  "material": {
+    "items": [
+      "alexsmobs:guster_eye"
+    ]
+  },
   "conditions": [
     {
       "type": "forge:mod_loaded",
       "modid": "alexsmobs"
     }
   ],
-  "features": ["gusting_strike"
+  "features": [
+    "gusting_strike"
   ]
 }
