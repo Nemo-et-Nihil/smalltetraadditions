@@ -1,4 +1,7 @@
 # smalltetraadditions
-Adds tetra support to a few mods, currently supports Aquaculture, Cataclysm, Enigmatic legacy,
-Majrusz's Progressive Difficulty, and Spelunkery. It also adds a socket for all gems tagged as sapphires by forge,
-and tags dragon bones for the latest 1.20.1 beta 2 of Ice and Fire so that tetracelium accepts them as a material.
+
+This addon mod adds tetra support to materials and tools from the following mods: Alex's Mobs, Aquaculture, L Enders
+Cataclysm, Create:Crafts&Additions, Create:Dreams&Desires, Enigmatic legacy, Ice and Fire: Dragons, Immersive
+Engineering, Majrusz's Progressive Difficulty, Nether's Delight, and Spelunkery.
+
+Outside these mods, it currently also adds vanilla cactus as a wood, with innate bleeding effect.
