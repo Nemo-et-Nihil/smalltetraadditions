@@ -42,8 +42,8 @@
   "tetra.material.nephrite.prefix": "Nephrite",
   "tetra.material.rock_salt": "Rock Salt",
   "tetra.material.rock_salt.prefix": "Rock Salt",
-  "tetra.material.socket_spelunkery_cinnabar": "Cinnabar socket",
-  "tetra.material.socket_spelunkery_cinnabar.prefix": "Cinnabar",
+  "tetra.material.socket_cinnabar": "Cinnabar socket",
+  "tetra.material.socket_cinnabar.prefix": "Cinnabar",
   "tetra.material.socket_spelunkery_nephrite": "Nephrite socket",
   "tetra.material.socket_spelunkery_nephrite.prefix": "Nephrite",
   "tetra.material.socket_spelunkery_magnetite": "Magnetite socket",
@@ -142,15 +142,11 @@
 
   "tetra.material.snail_shell": "Snail Shell",
   "tetra.material.snail_shell.prefix": "Snail Shell",
-  "tetra.material.maple_planks": "Maple Wood",
-  "tetra.material.maple_planks.prefix": "Maple Wood",
 
   "tetra.material.thrasher_tooth": "Thrasher Tooth",
   "tetra.material.thrasher_tooth.prefix": "Thrasher Tooth",
   "tetra.material.prismarine_rod": "Prismarine Rod",
   "tetra.material.prismarine_rod.prefix": "Prismarine Rod",
-  "tetra.material.drift_wood": "Driftwood",
-  "tetra.material.drift_wood.prefix": "Driftwood",
 
   "tetra.material.refined_obsidian": "Refined Obsidian",
   "tetra.material.refined_obsidian.prefix": "Refined Obsidian",
@@ -159,10 +155,6 @@
 
   "tetra.material.invar": "Invar",
   "tetra.material.invar.prefix": "Invar",
-  "tetra.material.cinnabar_tag": "Cinnabar",
-  "tetra.material.cinnabar_tag.prefix": "Cinnabar",
-  "tetra.material.rubberwood": "Rubberwood",
-  "tetra.material.rubberwood.prefix": "Rubberwood",
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",

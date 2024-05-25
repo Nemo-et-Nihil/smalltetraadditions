@@ -19,17 +19,9 @@
     "default"
   ],
   "material": {
-    "items": [
-      "spelunkery:cinnabar"
-    ]
+    "tag": "forge:gems/cinnabar"
   },
   "requiredTools": {
     "hammer_dig": "minecraft:iron"
-  },
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "spelunkery"
-    }
-  ]
+  }
 }

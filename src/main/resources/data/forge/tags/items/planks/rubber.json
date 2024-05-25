@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "create_dd:rubber_planks",
+      "required": false
+    },
+    {
+      "id": "thermal:rubberwood_planks",
+      "required": false
+    }
+  ]
+}

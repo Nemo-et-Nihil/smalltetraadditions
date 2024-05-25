@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "upgrade_aquatic:driftwood_planks",
+      "required": false
+    },
+    {
+      "id": "aquaculture:driftwood",
+      "required": false
+    }
+  ]
+}

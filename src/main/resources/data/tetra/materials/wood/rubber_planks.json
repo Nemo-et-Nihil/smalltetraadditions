@@ -22,17 +22,9 @@
     "wooden"
   ],
   "material": {
-    "items": [
-      "create_dd:rubber_planks"
-    ]
+    "tag": "forge:planks/rubber"
   },
   "requiredTools": {
     "axe_dig": "minecraft:stone"
-  },
-  "conditions": [
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create_dd"
-    }
-  ]
+  }
 }
