@@ -1,33 +1,68 @@
-{
-  "conditions":[
-    {
-      "type": "forge:mod_loaded",
-      "modid": "create_dd"
-    }
-  ],
-  "replace": false,
-  "slots": [
-    "double/handle"
-  ],
-  "materialSlotCount": 1,
-  "glyph": {
-    "textureX": 16
-  },
-  "displayType": "improvement",
-  "outcomes": [
-    {
-      "material": {
-        "items": [
-          "create_dd:rubber"
-        ],
-        "count": 2
-      },
-      "requiredTools": {
-        "cut": "minecraft:gold"
-      },
-      "improvements": {
-        "basic_handle/rubber_grip": 1
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "create_dd"
       }
-    }
-  ]
-}
+    ],
+    "replace": false,
+    "slots": [
+      "double/handle"
+    ],
+    "materialSlotCount": 1,
+    "glyph": {
+      "textureX": 16
+    },
+    "displayType": "improvement",
+    "outcomes": [
+      {
+        "material": {
+          "items": [
+            "create_dd:rubber"
+          ],
+          "count": 2
+        },
+        "requiredTools": {
+          "cut": "minecraft:gold"
+        },
+        "improvements": {
+          "basic_handle/rubber_grip": 1
+        }
+      }
+    ]
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "thermal"
+      }
+    ],
+    "replace": false,
+    "slots": [
+      "double/handle"
+    ],
+    "materialSlotCount": 1,
+    "glyph": {
+      "textureX": 16
+    },
+    "displayType": "improvement",
+    "outcomes": [
+      {
+        "material": {
+          "items": [
+            "thermal:cured_rubber"
+          ],
+          "count": 2
+        },
+        "requiredTools": {
+          "cut": "minecraft:gold"
+        },
+        "improvements": {
+          "basic_handle/rubber_grip": 1
+        }
+      }
+    ]
+  }
+]
