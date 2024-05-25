@@ -1,0 +1,122 @@
+[
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_glowstone_sword",
+        "sword_refined_glowstone"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/refined_glowstone"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/refined_glowstone"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/refined_glowstone"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_glowstone_shovel",
+        "shovel_refined_glowstone"
+      ]
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/refined_glowstone"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_glowstone_pickaxe",
+        "pickaxe_refined_glowstone"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/refined_glowstone"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/refined_glowstone"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_glowstone_hoe",
+        "hoe_refined_glowstone"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/hoe_left",
+        "hoe/refined_glowstone"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/refined_glowstone"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_glowstone_axe",
+        "axe_refined_glowstone"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/refined_glowstone"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/refined_glowstone"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  }
+]

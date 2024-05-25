@@ -153,6 +153,12 @@
   "tetra.material.refined_glowstone": "Refined Glowstone",
   "tetra.material.refined_glowstone.prefix": "Refined Glowstone",
 
+  "tetra.material.enderium_thermal": "Enderium",
+  "tetra.material.enderium_thermal.prefix": "Enderium",
+  "tetra.material.lumium": "Lumium",
+  "tetra.material.lumium.prefix": "Lumium",
+  "tetra.material.signalum": "Signalum",
+  "tetra.material.signalum.prefix": "Signalum",
   "tetra.material.invar": "Invar",
   "tetra.material.invar.prefix": "Invar",
 

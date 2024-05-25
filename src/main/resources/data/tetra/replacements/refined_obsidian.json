@@ -1,0 +1,122 @@
+[
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_obsidian_sword",
+        "sword_refined_obsidian"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/refined_obsidian"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/refined_obsidian"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/refined_obsidian"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_obsidian_shovel",
+        "shovel_refined_obsidian"
+      ]
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/refined_obsidian"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_obsidian_pickaxe",
+        "pickaxe_refined_obsidian"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/refined_obsidian"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/refined_obsidian"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_obsidian_hoe",
+        "hoe_refined_obsidian"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/hoe_left",
+        "hoe/refined_obsidian"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/refined_obsidian"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "predicate": {
+      "type": "tetra:loose",
+      "keys": [
+        "refined_obsidian_axe",
+        "axe_refined_obsidian"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/refined_obsidian"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/refined_obsidian"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  }
+]
