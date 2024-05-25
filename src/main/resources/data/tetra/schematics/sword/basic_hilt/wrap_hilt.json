@@ -17,9 +17,7 @@
   "outcomes": [
     {
       "material": {
-        "items": [
-          "create_dd:rubber"
-        ],
+        "tag": "forge:rubber",
         "count": 2
       },
       "requiredTools": {
