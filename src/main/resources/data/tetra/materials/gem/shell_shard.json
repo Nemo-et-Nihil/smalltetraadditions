@@ -1,0 +1,35 @@
+{
+  "key": "shell_shard",
+  "category": "scale",
+  "primary": 6,
+  "secondary": 4,
+  "tertiary": 1,
+  "durability": 1725,
+  "integrityCost": 2,
+  "integrityGain": 5,
+  "magicCapacity": 80,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 6,
+  "tints": {
+    "glyph": "7c6444",
+    "texture": "7c6444"
+  },
+  "textures": [
+    "bone",
+    "crude"
+  ],
+  "material": {
+    "items": [
+      "unusualprehistory:shell_shard"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:gold"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "unusualprehistory"
+    }
+  ]
+}

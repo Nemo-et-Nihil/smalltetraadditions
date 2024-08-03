@@ -1,0 +1,27 @@
+{
+  "key": "opal",
+  "category": "gem",
+  "primary": 5,
+  "secondary": 2,
+  "tertiary": 1,
+  "durability": 700,
+  "integrityCost": 2,
+  "integrityGain": 3,
+  "magicCapacity": 160,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 7,
+  "tints": {
+    "glyph": "b4d4f7",
+    "texture": "b4d4f7"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "tag": "forge:gems/opal"
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

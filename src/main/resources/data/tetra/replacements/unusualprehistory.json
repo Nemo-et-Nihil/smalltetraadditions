@@ -1,0 +1,30 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "unusualprehistory"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "iceandfire:dragonsteel_fire_pickaxe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/shell_shard"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/shell_shard"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  }
+]
