@@ -1,0 +1,35 @@
+{
+  "key": "neptunium",
+  "category": "metal",
+  "primary": 7,
+  "secondary": 5,
+  "tertiary": 2,
+  "durability": 1100,
+  "integrityCost": 2,
+  "integrityGain": 8,
+  "magicCapacity": 108,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 8,
+  "tints": {
+    "glyph": "6f707b",
+    "texture": "6f707b"
+  },
+  "textures": [
+    "metal",
+    "shiny"
+  ],
+  "material": {
+    "items": [
+      "born_in_chaos_v1:dark_metal_ingot"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "born_in_chaos_v1"
+    }
+  ]
+}

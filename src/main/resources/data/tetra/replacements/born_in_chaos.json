@@ -1,0 +1,62 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "born_in_chaos_v1"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "born_in_chaos_v1:great_reaper_axe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/dark_metal"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/dark_metal"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/bone_handle"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "born_in_chaos_v1"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "born_in_chaos_v1:sharpened_dark_metal_sword"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/dark_metal"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/bone_handle"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/dark_metal"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/dark_metal"
+      ]
+    }
+  }
+]

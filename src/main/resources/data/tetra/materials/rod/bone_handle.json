@@ -1,0 +1,38 @@
+{
+  "key": "bone_handle",
+  "category": "misc",
+  "primary": 6,
+  "secondary": 2,
+  "tertiary": 2,
+  "durability": 660,
+  "integrityCost": 1,
+  "integrityGain": 7,
+  "magicCapacity": 92,
+  "toolLevel": 0,
+  "toolEfficiency": 0,
+  "improvements": {
+    "workable": 1
+  },
+  "tints": {
+    "glyph": "3b3841",
+    "texture": "3b3841"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "born_in_chaos_v1:bone_handle"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:wood"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "born_in_chaos_v1"
+    }
+  ]
+}

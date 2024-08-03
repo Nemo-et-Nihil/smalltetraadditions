@@ -176,6 +176,13 @@
   "tetra.material.rex_tooth": "Rex Tooth",
   "tetra.material.rex_tooth.prefix": "Rex Tooth",
 
+  "tetra.material.monster_skin": "Monster Skin",
+  "tetra.material.monster_skin.prefix": "Monster Skin",
+  "tetra.material.dark_metal": "Dark Metal",
+  "tetra.material.dark_metal.prefix": "Dark Metal",
+  "tetra.material.bone_handle": "Bone Handle",
+  "tetra.material.bone_handle.prefix": "Bone Handle",
+
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
   "tetra.improvement.basic_hilt/rubber_grip.name": "Rubber Grip",
