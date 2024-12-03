@@ -35,7 +35,7 @@ description ='''Adds Tetra support to materials for my server that aren't covere
     modId = "tetra"
     mandatory = true
     # This version range declares a minimum of the current minecraft version up to but not including the next major version
-    versionRange="[6.6.0,)"
+    versionRange="[6.7.0,)"
     ordering="AFTER"
     side="BOTH"
 [[dependencies.smalltetraadditions]]
