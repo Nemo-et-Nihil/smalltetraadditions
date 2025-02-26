@@ -1,10 +1,14 @@
 {
   "trigger": "tetra:apply_hit_effects",
-  "effect": "enflame",
+  "effect": "necromium_slow",
   "outcome": {
-    "type": "tetra:command",
-    "command": "execute as @s run data modify entity @s Fire set value 300",
+    "type": "tetra:apply_effect",
+    "effect": "minecraft:slowness",
     "entity": "target",
-    "position": "attacker"
+    "source": "attacker",
+    "duration": 100,
+    "amplifier": 2,
+    "visible": true,
+    "stackDurationCap": 100
   }
 }
