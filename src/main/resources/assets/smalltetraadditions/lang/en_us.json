@@ -245,9 +245,9 @@
   "tetra.material.feature.dragon_ice.tooltip": "Tool heads and blades crafted from Ice Dragonsteel will have\na chance to stun or slow enemies when attacking.\n",
 
   "tetra.improvement.dragon_lightning.name": "Dragon Lightning",
-  "tetra.improvement.dragon_lightning.description": "Placeholder for custom effect, currently increases damage and adds bleeding",
+  "tetra.improvement.dragon_lightning.description": "Summons a lightning bolt on any attacked entity.",
   "tetra.material.feature.dragon_lightning": "Dragon Lightning",
-  "tetra.material.feature.dragon_lightning.tooltip": "Tool heads and blades crafted from Lightning Dragonsteel\nwill have increased knockback, and inflict bleeding and extra damage.\n",
+  "tetra.material.feature.dragon_lightning.tooltip": "Tools crafted from Lightning Dragonsteel\nwill summon a lightning bolt when attacking an entity.\n",
 
 
   "tetra.improvement.salted_wound.name": "Salted Wound",
