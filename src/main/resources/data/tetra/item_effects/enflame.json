@@ -1,0 +1,10 @@
+{
+  "trigger": "tetra:apply_hit_effects",
+  "effect": "enflame",
+  "outcome": {
+    "type": "tetra:command",
+    "command": "execute as @s run data modify entity @s Fire set value 5",
+    "entity": "target",
+    "position": "attacker"
+  }
+}
