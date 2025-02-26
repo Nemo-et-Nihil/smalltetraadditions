@@ -199,7 +199,12 @@
   "tetra.improvement.stave_grip/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.stave_grip/rubber_grip.description": "Increases draw speed and durability.",
 
-
+  "tetra.improvement.basic_handle/ghostly_wrapping.name": "Ghostly Wrapping",
+  "tetra.improvement.basic_handle/ghostly_wrapping.description": "A ghostly force lightens the tool, and sometimes protects you from attacks.",
+  "tetra.improvement.basic_hilt/ghostly_wrapping.name": "Ghostly Wrapping",
+  "tetra.improvement.basic_hilt/ghostly_wrapping.description": "A ghostly force lightens the tool, and sometimes protects you from attacks.",
+  "tetra.improvement.stave_grip/ghostly_wrapping.name": "Ghostly Wrapping",
+  "tetra.improvement.stave_grip/ghostly_wrapping.description": "A ghostly force lightens the tool, and sometimes protects you from attacks.",
 
   "tetra.improvement.cactus_bleeding.name": "Cactus Bleeding",
   "tetra.improvement.cactus_bleeding.description": "Applies bleeding 2",

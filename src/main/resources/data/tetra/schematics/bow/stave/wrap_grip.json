@@ -20,6 +20,19 @@
       "improvements": {
         "stave_grip/rubber_grip": 1
       }
+    },
+    {
+      "material": {
+        "tag": "forge:ectoplasm",
+        "count": 2
+      },
+      "requiredTools": {
+        "cut": "minecraft:gold"
+      },
+      "improvements": {
+        "stave_grip/ghostly_wrapping": 1
+      }
     }
   ]
 }
+
