@@ -2,7 +2,7 @@
   {
     "key": "dragon_lightning",
     "effects": {
-      "thundering": 0
+      "thundering": 1
     }
   }
 ]
