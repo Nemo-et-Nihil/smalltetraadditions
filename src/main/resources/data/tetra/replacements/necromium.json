@@ -18,8 +18,8 @@
         "basic_axe/necromium"
       ],
       "double/head_right": [
-        "double/basic_axe_right",
-        "basic_axe/necromium"
+        "double/butt_right",
+        "butt/necromium"
       ],
       "double/handle": [
         "double/basic_handle",
