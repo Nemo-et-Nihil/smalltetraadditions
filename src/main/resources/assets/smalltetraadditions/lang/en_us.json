@@ -35,6 +35,10 @@
   "tetra.material.koboleton_bone.prefix": "Koboleton Bone",
   "tetra.material.amethyst_crab_shell": "Amethyst Crab Shell",
   "tetra.material.amethyst_crab_shell.prefix": "Amethyst Crab Shell",
+  "tetra.material.black_steel": "Black Steel",
+  "tetra.material.black_steel.prefix": "Black Steel",
+  "tetra.material.cursium": "Cursium",
+  "tetra.material.cursium.prefix": "Cursium",
   "tetra.material.socket_abyssal_sacrifice": "Abyssal socket",
   "tetra.material.socket_abyssal_sacrifice.prefix": "Abyssal Sacrifice",
 
