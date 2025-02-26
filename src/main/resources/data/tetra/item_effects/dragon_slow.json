@@ -7,7 +7,7 @@
     "entity": "target",
     "source": "attacker",
     "duration": 300,
-    "amplifier": 3,
+    "amplifier": 2,
     "visible": true,
     "stackDurationCap": 300
   }
