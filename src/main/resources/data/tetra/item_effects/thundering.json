@@ -3,7 +3,7 @@
   "effect": "thundering",
   "outcome": {
     "type": "tetra:command",
-    "command": "summon minecraft:lighting_bolt",
+    "command": "summon minecraft:lightning_bolt",
     "position": "target"
   }
 }
