@@ -196,7 +196,8 @@
   "tetra.material.spinel": "Spinel",
   "tetra.material.spinel.prefix": "Spinel",
 
-
+  "tetra.improvement.ignitium_enflame.name": "Ignition",
+  "tetra.improvement.ignitium_enflame.description": "Ignites attacked enemies.",
   "tetra.material.feature.enflame": "Enflame",
   "tetra.material.feature.enflame.tooltip": "Tools with the Enflame effect set attacked entities ablaze.",
 
