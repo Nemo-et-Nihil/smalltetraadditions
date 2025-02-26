@@ -1,0 +1,35 @@
+{
+  "key": "nightmare_claw",
+  "category": "bone",
+  "primary": 6,
+  "secondary": 2,
+  "tertiary": 5,
+  "durability": 500,
+  "integrityCost": 1,
+  "integrityGain": 6,
+  "magicCapacity": 128,
+  "toolLevel": "minecraft:iron",
+  "toolEfficiency": 7,
+    "tints": {
+    "glyph": "1d1624",
+    "texture": "1d1624"
+  },
+  "textures": [
+    "crude",
+    "default"
+  ],
+  "material": {
+    "items": [
+      "born_in_chaos_v1:nightmare_claw"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "born_in_chaos_v1"
+    }
+  ]
+}

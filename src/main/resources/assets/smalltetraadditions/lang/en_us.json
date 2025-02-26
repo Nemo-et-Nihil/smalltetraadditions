@@ -166,6 +166,8 @@
 
   "tetra.material.dawnstone": "Dawnstone",
   "tetra.material.dawnstone.prefix": "Dawnstone",
+  "tetra.material.ashen_fabric": "Ashen Fabric",
+  "tetra.material.ashen_fabric.prefix": "Ashen Fabric",
 
   "tetra.material.opal": "Opal",
   "tetra.material.opal.prefix": "Opal",
@@ -182,6 +184,9 @@
   "tetra.material.dark_metal.prefix": "Dark Metal",
   "tetra.material.bone_handle": "Bone Handle",
   "tetra.material.bone_handle.prefix": "Bone Handle",
+  "tetra.material.nightmare_claw": "Nightmare Claw",
+  "tetra.material.nightmare_claw.prefix": "Nightmare Claw",
+
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
