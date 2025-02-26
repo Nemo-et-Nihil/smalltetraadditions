@@ -1,0 +1,142 @@
+[
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "caverns_and_chasms"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "caverns_and_chasms:necromium_axe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_axe_left",
+        "basic_axe/necromium"
+      ],
+      "double/head_right": [
+        "double/basic_axe_right",
+        "basic_axe/necromium"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "caverns_and_chasms"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "caverns_and_chasms:necromium_hoe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/hoe_left",
+        "hoe/necromium"
+      ],
+      "double/head_right": [
+        "double/butt_right",
+        "butt/necromium"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "caverns_and_chasms"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "caverns_and_chasms:necromium_pickaxe"
+      ]
+    },
+    "item": "tetra:modular_double",
+    "modules": {
+      "double/head_left": [
+        "double/basic_pickaxe_left",
+        "basic_pickaxe/necromium"
+      ],
+      "double/head_right": [
+        "double/basic_pickaxe_right",
+        "basic_pickaxe/necromium"
+      ],
+      "double/handle": [
+        "double/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "caverns_and_chasms"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "caverns_and_chasms:necromium_shovel"
+      ]
+    },
+    "item": "tetra:modular_single",
+    "modules": {
+      "single/head": [
+        "single/basic_shovel",
+        "basic_shovel/necromium"
+      ],
+      "single/handle": [
+        "single/basic_handle",
+        "basic_handle/stick"
+      ]
+    }
+  },
+  {
+    "conditions": [
+      {
+        "type": "forge:mod_loaded",
+        "modid": "caverns_and_chasms"
+      }
+    ],
+    "predicate": {
+      "items": [
+        "caverns_and_chasms:necromium_sword"
+      ]
+    },
+    "item": "tetra:modular_sword",
+    "modules": {
+      "sword/blade": [
+        "sword/basic_blade",
+        "basic_blade/necromium"
+      ],
+      "sword/hilt": [
+        "sword/basic_hilt",
+        "basic_hilt/stick"
+      ],
+      "sword/pommel": [
+        "sword/decorative_pommel",
+        "decorative_pommel/necromium"
+      ],
+      "sword/guard": [
+        "sword/makeshift_guard",
+        "makeshift_guard/necromium"
+      ]
+    }
+  }
+]
