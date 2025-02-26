@@ -1,0 +1,35 @@
+{
+  "key": "necromium",
+  "category": "metal",
+  "primary": 7.2,
+  "secondary": 2.9,
+  "tertiary": 3.5,
+  "durability": 2031,
+  "integrityCost": 2,
+  "integrityGain": 8,
+  "magicCapacity": 128,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 9,
+  "tints": {
+    "glyph": "79948e",
+    "texture": "79948e"
+  },
+  "textures": [
+    "metal",
+    "shiny"
+  ],
+  "material": {
+    "items": [
+      "caverns_and_chasms:necromium_ingot"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:netherite"
+  },
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "caverns_and_chasms"
+    }
+  ]
+}

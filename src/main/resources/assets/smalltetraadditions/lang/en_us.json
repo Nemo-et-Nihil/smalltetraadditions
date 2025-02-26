@@ -191,6 +191,11 @@
   "tetra.material.nightmare_claw": "Nightmare Claw",
   "tetra.material.nightmare_claw.prefix": "Nightmare Claw",
 
+  "tetra.material.necromium": "Necromium",
+  "tetra.material.necromium.prefix": "Necromium",
+  "tetra.material.spinel": "Spinel",
+  "tetra.material.spinel.prefix": "Spinel",
+
 
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
