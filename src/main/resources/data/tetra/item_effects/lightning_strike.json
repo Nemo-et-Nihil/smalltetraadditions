@@ -8,7 +8,7 @@
       "type": "tetra:damage_entity",
       "entity": "target",
       "amount": 5,
-      "damageType": "minecraft:generic"
+      "damageType": "minecraft:lightning_bolt"
     }
   }
 }
