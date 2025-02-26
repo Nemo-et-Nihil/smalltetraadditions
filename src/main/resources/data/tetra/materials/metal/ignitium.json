@@ -34,5 +34,8 @@
       "type": "forge:mod_loaded",
       "modid": "cataclysm"
     }
+  ],
+  "features": [
+    "enflame"
   ]
 }

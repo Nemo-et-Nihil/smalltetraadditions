@@ -3,7 +3,7 @@
   "effect": "enflame",
   "outcome": {
     "type": "tetra:command",
-    "command": "execute as @s run data modify entity @s Fire set value 5",
+    "command": "execute as @s run data modify entity @s Fire set value 300",
     "entity": "target",
     "position": "attacker"
   }

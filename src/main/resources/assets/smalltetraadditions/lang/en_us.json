@@ -197,6 +197,9 @@
   "tetra.material.spinel.prefix": "Spinel",
 
 
+  "tetra.material.feature.enflame": "Enflame",
+  "tetra.material.feature.enflame.tooltip": "Tools with the Enflame effect set attacked entities ablaze.",
+
   "tetra.improvement.basic_handle/rubber_grip.name": "Rubber Grip",
   "tetra.improvement.basic_handle/rubber_grip.description": "Greatly increases speed, slightly increases damage, and greatly reduces reverb.",
   "tetra.improvement.basic_hilt/rubber_grip.name": "Rubber Grip",
