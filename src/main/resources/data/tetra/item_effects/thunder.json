@@ -3,7 +3,8 @@
   "effect": "thunder",
   "outcome": {
     "type": "tetra:command",
-    "command": "summon minecraft:lightning_bolt",
-    "position": "target"
+    "command": "damage @s 5 lightning_bolt @p",
+    "entity": "target",
+    "position": "attacker"
   }
 }
